@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\OneDrive-FH\OneDrive - FH OOe\DissDaten\MEDUSA_Thurner\Schaltungen\SmartArtificialSoftTissue_Standard_v2_1\SmartArtificialSoftTissue_Standard_v2.kicad_sch</source>
+    <date>05.09.2022 15:33:37</date>
+    <tool>Eeschema (6.0.2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Impedance Multi Sensing Circuit</title>
+        <company/>
+        <rev>V2</rev>
+        <date>2022-05-09</date>
+        <source>SmartArtificialSoftTissue_Standard_v2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="AS1">
+      <value>ADG1611BRUZ</value>
+      <footprint>ADG1611-footprints:RU_16_ADI</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1611_1612_1613.pdf</datasheet>
+      <libsource lib="ADG1611" part="ADG1611BRUZ" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c1164f3-e688-412f-9197-1f23c1392f0a</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>878b3807-9776-4300-84fd-b46b1bab1151</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d44cae2-8357-4d44-8f84-1e29c6081fea</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e69b38a8-6d19-4669-8678-b3036089e6a5</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>690385be-9b56-486c-a5cf-d66f29234ecc</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8ce893a-4c64-4f70-9921-129e790bc107</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6e50f43-db50-427d-9cf4-d62d6be334f0</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81a7d3d7-3dc6-4b74-af14-cc6381b1f25b</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80745326-e66a-422d-bf0d-1dec36c6f036</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38bd49cc-b24a-49fb-829d-b6cc5da8a475</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5955a114-24a8-409e-a34e-6cfcca9b2bf1</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e92f297d-a964-410e-92d0-fac616fd6124</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c8596c6-d806-4312-bce8-2a5e57412fdf</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1µF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>028771e8-98b5-491c-a822-feb83d58b452</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c4abfd3-b845-4e93-9b4b-7b5d65623457</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48658524-72f1-420d-aaf6-2f5c00e94873</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>10pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3ea21c0-5a47-428d-a500-308b134cebe9</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79433969-9049-4bde-b676-0e2742c3793d</tstamps>
+    </comp>
+    <comp ref="CON1">
+      <value>Conn_02x08_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a4084df-f615-44f7-be27-d26e27fea378</tstamps>
+    </comp>
+    <comp ref="CON2">
+      <value>Conn_02x03_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a43182f-1531-4ec7-b80c-d6dd6928a571</tstamps>
+    </comp>
+    <comp ref="CON3">
+      <value>Conn_01x08_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Male" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>506e2c80-a994-4cb7-b01e-e407dc1a59b8</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1f7f35b-430d-4924-82a5-189ea867621a</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED_yellow</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>791dca87-83d5-4191-9cf6-67dc9116b8bd</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_green</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa78c7cc-df2d-443c-b431-e9665792389b</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_blue</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2275f1e4-ff9e-44a7-9bde-0a3b551e7381</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>AD5933WYRSZ-REEL7</value>
+      <footprint>SamacSys_Parts:SOP65P780X200-16N</footprint>
+      <datasheet>https://www.mouser.at/datasheet/2/609/AD5933-1501779.pdf</datasheet>
+      <fields>
+        <field name="Description">Data Acquisition ADCs/DACs - Specialized 12bit 1 MSPS, Impedance Converter</field>
+        <field name="Height">2</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD5933WYRSZ-REEL7</field>
+        <field name="Mouser Part Number">584-5933WYRSZR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD5933WYRSZ-REEL7?qs=hpwIUhX6lWxMRbOx%252BzdNMg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="AD5933WYRSZ-REEL7" description="Data Acquisition ADCs/DACs - Specialized 12bit 1 MSPS, Impedance Converter"/>
+      <property name="Description" value="Data Acquisition ADCs/DACs - Specialized 12bit 1 MSPS, Impedance Converter"/>
+      <property name="Height" value="2"/>
+      <property name="Mouser Part Number" value="584-5933WYRSZR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD5933WYRSZ-REEL7?qs=hpwIUhX6lWxMRbOx%252BzdNMg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Analog Devices"/>
+      <property name="Manufacturer_Part_Number" value="AD5933WYRSZ-REEL7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70d5304d-46b2-4d8f-98c7-f3b2f9d911d6</tstamps>
+    </comp>
+    <comp ref="IOEX1">
+      <value>MCP23017_SS</value>
+      <footprint>Package_SO:SSOP-28_5.3x10.2mm_P0.65mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</datasheet>
+      <libsource lib="Interface_Expansion" part="MCP23017_SS" description="16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60a53017-51a8-4472-999a-fb5a13a47e99</tstamps>
+    </comp>
+    <comp ref="IOEX2">
+      <value>MCP23017_SS</value>
+      <footprint>Package_SO:SSOP-28_5.3x10.2mm_P0.65mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</datasheet>
+      <libsource lib="Interface_Expansion" part="MCP23017_SS" description="16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67b0d38d-ab13-4c70-a3ea-e59c7ef23b8d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbaf9dce-5624-4db0-a685-f410f0557723</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76e58475-52ad-4522-98b7-afae3fc8cbde</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f8a3118-87bf-47c1-86ed-b371f4690cb1</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7395fb2d-22e1-4b92-bb7d-d61ba1bcde17</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f4cb31d-49fb-4f22-a84f-05fc3b051f2a</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b827ecdf-1b66-44ec-bde7-a8dde4c9d388</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf9ac2b6-9480-44ae-9358-593f406eb76d</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>123ea5ad-8f03-4c48-b96a-097367e2feb2</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25b8e997-2cca-4770-8bc3-7dabeeb93da2</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b62d12c-c4c8-417f-911a-cbe5ae4a3761</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x06_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c084891-ff67-4397-82b8-f3278de2f88e</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x05_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f30075f9-8850-42d3-a19b-e03b7f52cda6</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x01</value>
+      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_1x2mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd581f7d-ef8e-43eb-b7e6-ac8ca1ea98d3</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b533bda-183f-4c8a-a306-ca2249a23441</tstamps>
+    </comp>
+    <comp ref="MUX1">
+      <value>ADG1606BRUZ</value>
+      <footprint>ADG1606-footprints:RU_28_ADI</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1606_1607.pdf</datasheet>
+      <libsource lib="ADG1606" part="ADG1606BRUZ" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c09938fd-06b9-4771-9f63-2311626243b3</tstamps>
+    </comp>
+    <comp ref="MUX2">
+      <value>ADG1606BRUZ</value>
+      <footprint>ADG1606-footprints:RU_28_ADI</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1606_1607.pdf</datasheet>
+      <libsource lib="ADG1606" part="ADG1606BRUZ" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>695b8cc0-c45a-4a70-9ea4-be73195c3754</tstamps>
+    </comp>
+    <comp ref="MUX3">
+      <value>ADG1606BRUZ</value>
+      <footprint>ADG1606-footprints:RU_28_ADI</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1606_1607.pdf</datasheet>
+      <libsource lib="ADG1606" part="ADG1606BRUZ" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f47c759-d5c0-4ea4-9a91-b73ca572c801</tstamps>
+    </comp>
+    <comp ref="Needle1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64b12688-efaa-469c-8930-358eab93999c</tstamps>
+    </comp>
+    <comp ref="OPA1">
+      <value>AD8606ARMZ-REEL</value>
+      <footprint>AD8606-footprints:RM_8_ADI</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf</datasheet>
+      <libsource lib="AD8606" part="AD8606ARMZ-REEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddd7e231-6023-4a9d-bd59-778c9f6d9908</tstamps>
+    </comp>
+    <comp ref="OPA2">
+      <value>AD8606ARMZ-REEL</value>
+      <footprint>AD8606-footprints:RM_8_ADI</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf</datasheet>
+      <libsource lib="AD8606" part="AD8606ARMZ-REEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe07270a-f994-4011-870f-2f3e8b803ae5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c10678c-a66c-41b1-b9f2-8cb4db547826</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22f3a26f-cd97-4ab0-97b9-a40f586e6baf</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e75155f7-281d-4386-bf12-5fa07d1fe057</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d9227ee-e933-4cfd-9dcc-4cf0e52648d9</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40bd02b0-0603-44fa-96df-95d2b2f5f3d6</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9e5431b-2ee7-4a2a-9620-c3bc3435c713</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2c68fa2-22b1-4d73-b8ee-43f56e437bb6</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd9e1177-16a0-40d3-807a-ff755d5a948a</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64877431-eedb-4644-84e7-fd7f3c9e5d0f</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dfebe18-27e3-46d7-8ee7-64025238322a</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef487ddc-1048-4e16-b8cd-6ec7aacb4c73</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>216a335c-ad77-45a9-9176-7afef671ba57</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f0e015a-d7ec-4f88-9538-48e02c3c80bd</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>INF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0001faa4-d08e-46cf-a66b-0b8c9a5c6074</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fb5d525-a86f-43aa-bb89-8a751582b033</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca9f23c8-3218-403b-9983-c3e8fc12ec10</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>414ebf10-0733-405b-82c6-edb7f5a7d3c0</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dde8513-8356-4f7e-a008-2cc3a93c305f</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2aa3bb0-fcc1-48cd-a7eb-fc6197fb8b4d</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18b4d6ce-f2df-47c5-b7fc-6e7c2dabd30d</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>556d4703-4fd4-41d4-be79-e950d2a8d3f4</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad2d1df3-70de-4ee9-b6b7-19a64a997cba</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b85d9919-0005-4052-b05d-814e8d997b2c</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f497d9a-87f8-4fee-9891-89e196b6acb8</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5b389f1-4c74-4c6d-a36e-94cba06993f5</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>600fbb48-7ee0-4fb2-8ac2-6812f915e9bd</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74c5bded-72cd-4fab-9e77-c797e1ba9276</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9494e81c-cb3a-47a6-aeb5-d27c0a87c5ac</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2192213-ca4f-4392-a6d6-9c630fc9e414</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61f8ae4d-c8b8-479a-9ac4-c3b65df42d99</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df5c78bd-9d91-4192-96f1-92dd87e08411</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c63b519-b79b-4acf-ac46-ef57ab4f6ff4</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb1ae23f-45e9-46b3-b040-ed530b2b4248</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5c732e3-bbd4-49bf-904c-7428feff6010</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdc3067a-cd83-4cc2-a492-33007b61f0f7</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5cbb9b8-33ff-45a4-b1e4-abd3eb313ce9</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ecdf9be-1344-4e55-85eb-9c69270b3965</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3374d74c-a4f3-484d-b655-7671efcecfc2</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6430b1e8-622b-408e-a9d5-4f0611290133</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de66d2ac-9dd8-4d9c-9eaa-2719401db423</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3b7e8eb-305a-4547-b5fa-3b42b4210cdd</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9132b9e1-1b01-46cf-8c12-0a9d9f5569a7</tstamps>
+    </comp>
+    <comp ref="R59">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>830975c8-48b1-4442-8435-7218c8be277f</tstamps>
+    </comp>
+    <comp ref="R60">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07f91aef-f8d8-48e8-b447-82e79b277318</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cb2f69d-11c9-4014-8663-fd351f8cf84d</tstamps>
+    </comp>
+    <comp ref="R62">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>976f4da1-d2eb-46b6-b7e9-5b30da9efea7</tstamps>
+    </comp>
+    <comp ref="R63">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0670634-30cd-46a9-9769-8ee4edf0f8e8</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6aa2139b-ad54-44d9-99e9-499820ed34cf</tstamps>
+    </comp>
+    <comp ref="R65">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b156b420-467c-483d-a841-3fdd3b255fde</tstamps>
+    </comp>
+    <comp ref="R67">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4039f2a-c953-43da-a67c-34daff07de53</tstamps>
+    </comp>
+    <comp ref="R_shunt1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5be9ae7-9872-4e36-8d8d-bd08a946e48f</tstamps>
+    </comp>
+    <comp ref="UC1">
+      <value>Sparkfun_Pro_Micro</value>
+      <footprint>Arduino:Sparkfun_Pro_Micro</footprint>
+      <datasheet>https://www.sparkfun.com/products/12640</datasheet>
+      <libsource lib="Arduino" part="Sparkfun_Pro_Micro" description="Sparkfun Pro Micro"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d94a7143-e431-42b5-bd23-7f1f44ae3c35</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>ECS-2200BX-160</value>
+      <footprint>SamacSys_Parts:ECS2200BX160</footprint>
+      <datasheet>http://www.ecsxtal.com/store/pdf/ecs-2200x.pdf</datasheet>
+      <fields>
+        <field name="Description">XTAL OSC XO 16.0000MHZ HCMOS TTL</field>
+        <field name="Height">5.4</field>
+        <field name="Manufacturer_Name">ECS</field>
+        <field name="Manufacturer_Part_Number">ECS-2200BX-160</field>
+        <field name="Mouser Part Number">520-2200BX-160</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ECS/ECS-2200BX-160?qs=GxOUx7aO6nxS7YN3SOv8Uw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ECS-2200BX-160" description="XTAL OSC XO 16.0000MHZ HCMOS TTL"/>
+      <property name="Description" value="XTAL OSC XO 16.0000MHZ HCMOS TTL"/>
+      <property name="Height" value="5.4"/>
+      <property name="Mouser Part Number" value="520-2200BX-160"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ECS/ECS-2200BX-160?qs=GxOUx7aO6nxS7YN3SOv8Uw%3D%3D"/>
+      <property name="Manufacturer_Name" value="ECS"/>
+      <property name="Manufacturer_Part_Number" value="ECS-2200BX-160"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SmartArtificialSoftTissue_Standard_v2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61eb7e93-3c0f-4c6f-b744-0c29411d1138</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AD8606" part="AD8606ARMZ-REEL">
+      <footprints>
+        <fp>RM_8_ADI</fp>
+        <fp>RM_8_ADI-M</fp>
+        <fp>RM_8_ADI-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD8606ARMZ-REEL</field>
+        <field name="Footprint">footprints:RM_8_ADI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUTA" type="unspecified"/>
+        <pin num="2" name="-INA" type="unspecified"/>
+        <pin num="3" name="+INA" type="unspecified"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+INB" type="unspecified"/>
+        <pin num="6" name="-INB" type="unspecified"/>
+        <pin num="7" name="OUTB" type="unspecified"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ADG1606" part="ADG1606BRUZ">
+      <footprints>
+        <fp>RU_28_ADI</fp>
+        <fp>RU_28_ADI-M</fp>
+        <fp>RU_28_ADI-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADG1606BRUZ</field>
+        <field name="Footprint">footprints:RU_28_ADI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="S16" type="bidirectional"/>
+        <pin num="5" name="S15" type="bidirectional"/>
+        <pin num="6" name="S14" type="bidirectional"/>
+        <pin num="7" name="S13" type="bidirectional"/>
+        <pin num="8" name="S12" type="bidirectional"/>
+        <pin num="9" name="S11" type="bidirectional"/>
+        <pin num="10" name="S10" type="bidirectional"/>
+        <pin num="11" name="S9" type="bidirectional"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="NC" type="no_connect"/>
+        <pin num="14" name="A3" type="input"/>
+        <pin num="15" name="A2" type="input"/>
+        <pin num="16" name="A1" type="input"/>
+        <pin num="17" name="A0" type="input"/>
+        <pin num="18" name="EN" type="input"/>
+        <pin num="19" name="S1" type="bidirectional"/>
+        <pin num="20" name="S2" type="bidirectional"/>
+        <pin num="21" name="S3" type="bidirectional"/>
+        <pin num="22" name="S4" type="bidirectional"/>
+        <pin num="23" name="S5" type="bidirectional"/>
+        <pin num="24" name="S6" type="bidirectional"/>
+        <pin num="25" name="S7" type="bidirectional"/>
+        <pin num="26" name="S8" type="bidirectional"/>
+        <pin num="27" name="VSS" type="power_in"/>
+        <pin num="28" name="D" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="ADG1611" part="ADG1611BRUZ">
+      <footprints>
+        <fp>RU_16_ADI</fp>
+        <fp>RU_16_ADI-M</fp>
+        <fp>RU_16_ADI-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADG1611BRUZ</field>
+        <field name="Footprint">footprints:RU_16_ADI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN1" type="unspecified"/>
+        <pin num="2" name="D1" type="unspecified"/>
+        <pin num="3" name="S1" type="unspecified"/>
+        <pin num="4" name="VSS" type="unspecified"/>
+        <pin num="5" name="GND" type="unspecified"/>
+        <pin num="6" name="S4" type="unspecified"/>
+        <pin num="7" name="D4" type="unspecified"/>
+        <pin num="8" name="IN4" type="unspecified"/>
+        <pin num="9" name="IN3" type="unspecified"/>
+        <pin num="10" name="D3" type="unspecified"/>
+        <pin num="11" name="S3" type="unspecified"/>
+        <pin num="12" name="NC" type="unspecified"/>
+        <pin num="13" name="VDD" type="power_in"/>
+        <pin num="14" name="S2" type="unspecified"/>
+        <pin num="15" name="D2" type="unspecified"/>
+        <pin num="16" name="IN2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino" part="Sparkfun_Pro_Micro">
+      <description>Sparkfun Pro Micro</description>
+      <docs>https://www.sparkfun.com/products/12640</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Sparkfun_Pro_Micro</field>
+        <field name="Footprint">Arduino:Sparkfun_Pro_Micro</field>
+        <field name="Datasheet">https://www.sparkfun.com/products/12640</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D1/TX" type="bidirectional"/>
+        <pin num="2" name="D0/RX" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="D2" type="bidirectional"/>
+        <pin num="6" name="~D3" type="bidirectional"/>
+        <pin num="7" name="D4/A6" type="bidirectional"/>
+        <pin num="8" name="~D5" type="bidirectional"/>
+        <pin num="9" name="~D6/A7" type="bidirectional"/>
+        <pin num="10" name="D7" type="bidirectional"/>
+        <pin num="11" name="D8/A8" type="bidirectional"/>
+        <pin num="12" name="~D9/A9" type="bidirectional"/>
+        <pin num="13" name="~D10/A10" type="bidirectional"/>
+        <pin num="14" name="D16" type="bidirectional"/>
+        <pin num="15" name="D14" type="bidirectional"/>
+        <pin num="16" name="D15" type="bidirectional"/>
+        <pin num="17" name="D18/A0" type="bidirectional"/>
+        <pin num="18" name="D19/A1" type="bidirectional"/>
+        <pin num="19" name="D20/A2" type="bidirectional"/>
+        <pin num="20" name="D21/A3" type="bidirectional"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Male">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Male">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x08_Male">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x08_Odd_Even">
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x08_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="MCP23017_SS">
+      <description>16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x10.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP23017_SS</field>
+        <field name="Footprint">Package_SO:SSOP-28_5.3x10.2mm_P0.65mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPB0" type="bidirectional"/>
+        <pin num="2" name="GPB1" type="bidirectional"/>
+        <pin num="3" name="GPB2" type="bidirectional"/>
+        <pin num="4" name="GPB3" type="bidirectional"/>
+        <pin num="5" name="GPB4" type="bidirectional"/>
+        <pin num="6" name="GPB5" type="bidirectional"/>
+        <pin num="7" name="GPB6" type="bidirectional"/>
+        <pin num="8" name="GPB7" type="bidirectional"/>
+        <pin num="9" name="VDD" type="power_in"/>
+        <pin num="10" name="VSS" type="power_in"/>
+        <pin num="11" name="NC" type="no_connect"/>
+        <pin num="12" name="SCK" type="input"/>
+        <pin num="13" name="SDA" type="bidirectional"/>
+        <pin num="14" name="NC" type="no_connect"/>
+        <pin num="15" name="A0" type="input"/>
+        <pin num="16" name="A1" type="input"/>
+        <pin num="17" name="A2" type="input"/>
+        <pin num="18" name="~{RESET}" type="input"/>
+        <pin num="19" name="INTB" type="tri_state"/>
+        <pin num="20" name="INTA" type="tri_state"/>
+        <pin num="21" name="GPA0" type="bidirectional"/>
+        <pin num="22" name="GPA1" type="bidirectional"/>
+        <pin num="23" name="GPA2" type="bidirectional"/>
+        <pin num="24" name="GPA3" type="bidirectional"/>
+        <pin num="25" name="GPA4" type="bidirectional"/>
+        <pin num="26" name="GPA5" type="bidirectional"/>
+        <pin num="27" name="GPA6" type="bidirectional"/>
+        <pin num="28" name="GPA7" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="AD5933WYRSZ-REEL7">
+      <description>Data Acquisition ADCs/DACs - Specialized 12bit 1 MSPS, Impedance Converter</description>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AD5933WYRSZ-REEL7</field>
+        <field name="Footprint">SamacSys_Parts:SOP65P780X200-16N</field>
+        <field name="Description">Data Acquisition ADCs/DACs - Specialized 12bit 1 MSPS, Impedance Converter</field>
+        <field name="Height">2</field>
+        <field name="Mouser Part Number">584-5933WYRSZR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD5933WYRSZ-REEL7?qs=hpwIUhX6lWxMRbOx%252BzdNMg%3D%3D</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD5933WYRSZ-REEL7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC_1" type="passive"/>
+        <pin num="2" name="NC_2" type="passive"/>
+        <pin num="3" name="NC_3" type="passive"/>
+        <pin num="4" name="RFB" type="input"/>
+        <pin num="5" name="VIN" type="input"/>
+        <pin num="6" name="VOUT" type="output"/>
+        <pin num="7" name="NC_4" type="passive"/>
+        <pin num="8" name="MCLK" type="input"/>
+        <pin num="9" name="DVDD" type="power_in"/>
+        <pin num="10" name="AVDD1" type="power_in"/>
+        <pin num="11" name="AVDD2" type="power_in"/>
+        <pin num="12" name="DGND" type="power_in"/>
+        <pin num="13" name="AGND1" type="power_in"/>
+        <pin num="14" name="AGND2" type="power_in"/>
+        <pin num="15" name="SDA" type="bidirectional"/>
+        <pin num="16" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="ECS-2200BX-160">
+      <description>XTAL OSC XO 16.0000MHZ HCMOS TTL</description>
+      <docs>http://www.ecsxtal.com/store/pdf/ecs-2200x.pdf</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">ECS-2200BX-160</field>
+        <field name="Footprint">SamacSys_Parts:ECS2200BX160</field>
+        <field name="Datasheet">http://www.ecsxtal.com/store/pdf/ecs-2200x.pdf</field>
+        <field name="Description">XTAL OSC XO 16.0000MHZ HCMOS TTL</field>
+        <field name="Height">5.4</field>
+        <field name="Mouser Part Number">520-2200BX-160</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ECS/ECS-2200BX-160?qs=GxOUx7aO6nxS7YN3SOv8Uw%3D%3D</field>
+        <field name="Manufacturer_Name">ECS</field>
+        <field name="Manufacturer_Part_Number">ECS-2200BX-160</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TRI-STATE" type="passive"/>
+        <pin num="4" name="CASE_GROUND" type="passive"/>
+        <pin num="5" name="OUTPUT" type="passive"/>
+        <pin num="8" name="+5V_DC" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_Expansion">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Interface_Expansion.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/AS1_D1">
+      <node ref="AS1" pin="2" pinfunction="D1" pintype="unspecified"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J5" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="/AS1_D2">
+      <node ref="AS1" pin="15" pinfunction="D2" pintype="unspecified"/>
+      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="J6" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/AS1_D3">
+      <node ref="AS1" pin="10" pinfunction="D3" pintype="unspecified"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="J7" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/AS1_D4">
+      <node ref="AS1" pin="7" pinfunction="D4" pintype="unspecified"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J9" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/AS1_S1">
+      <node ref="AS1" pin="3" pinfunction="S1" pintype="unspecified"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="R65" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/AS1_S2">
+      <node ref="AS1" pin="14" pinfunction="S2" pintype="unspecified"/>
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="R67" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/AS1_S3">
+      <node ref="AS1" pin="11" pinfunction="S3" pintype="unspecified"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="R55" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/AS1_S4">
+      <node ref="AS1" pin="6" pinfunction="S4" pintype="unspecified"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J8" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/AS_1">
+      <node ref="AS1" pin="1" pinfunction="IN1" pintype="unspecified"/>
+      <node ref="IOEX1" pin="21" pinfunction="GPA0" pintype="bidirectional"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/AS_2">
+      <node ref="AS1" pin="16" pinfunction="IN2" pintype="unspecified"/>
+      <node ref="IOEX1" pin="24" pinfunction="GPA3" pintype="bidirectional"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/AS_3">
+      <node ref="AS1" pin="9" pinfunction="IN3" pintype="unspecified"/>
+      <node ref="IOEX1" pin="23" pinfunction="GPA2" pintype="bidirectional"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/AS_4">
+      <node ref="AS1" pin="8" pinfunction="IN4" pintype="unspecified"/>
+      <node ref="IOEX1" pin="22" pinfunction="GPA1" pintype="bidirectional"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="/GPIO_B0">
+      <node ref="CON3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="IOEX1" pin="1" pinfunction="GPB0" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/GPIO_B1">
+      <node ref="CON3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="IOEX1" pin="2" pinfunction="GPB1" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/GPIO_B2">
+      <node ref="CON3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="IOEX1" pin="3" pinfunction="GPB2" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/GPIO_B3">
+      <node ref="CON3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="IOEX1" pin="4" pinfunction="GPB3" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/GPIO_B4">
+      <node ref="CON3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="IOEX1" pin="5" pinfunction="GPB4" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/GPIO_B5">
+      <node ref="CON3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="IOEX1" pin="6" pinfunction="GPB5" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/GPIO_B6">
+      <node ref="CON3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="IOEX1" pin="7" pinfunction="GPB6" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/GPIO_B7">
+      <node ref="CON3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="IOEX1" pin="8" pinfunction="GPB7" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/LED_blue">
+      <node ref="IOEX1" pin="28" pinfunction="GPA7" pintype="bidirectional"/>
+      <node ref="R52" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="/LED_green">
+      <node ref="IOEX1" pin="27" pinfunction="GPA6" pintype="bidirectional"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="/LED_red">
+      <node ref="IOEX1" pin="25" pinfunction="GPA4" pintype="bidirectional"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="/LED_yellow">
+      <node ref="IOEX1" pin="26" pinfunction="GPA5" pintype="bidirectional"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="/M1_A0">
+      <node ref="IOEX2" pin="21" pinfunction="GPA0" pintype="bidirectional"/>
+      <node ref="MUX1" pin="17" pinfunction="A0" pintype="input"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="/M1_A1">
+      <node ref="IOEX2" pin="22" pinfunction="GPA1" pintype="bidirectional"/>
+      <node ref="MUX1" pin="16" pinfunction="A1" pintype="input"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="/M1_A2">
+      <node ref="IOEX2" pin="23" pinfunction="GPA2" pintype="bidirectional"/>
+      <node ref="MUX1" pin="15" pinfunction="A2" pintype="input"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="/M1_A3">
+      <node ref="IOEX2" pin="24" pinfunction="GPA3" pintype="bidirectional"/>
+      <node ref="MUX1" pin="14" pinfunction="A3" pintype="input"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="/M1_EN">
+      <node ref="IOEX2" pin="5" pinfunction="GPB4" pintype="bidirectional"/>
+      <node ref="MUX1" pin="18" pinfunction="EN" pintype="input"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="/M2_A0">
+      <node ref="IOEX2" pin="25" pinfunction="GPA4" pintype="bidirectional"/>
+      <node ref="MUX2" pin="17" pinfunction="A0" pintype="input"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="/M2_A1">
+      <node ref="IOEX2" pin="26" pinfunction="GPA5" pintype="bidirectional"/>
+      <node ref="MUX2" pin="16" pinfunction="A1" pintype="input"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="/M2_A2">
+      <node ref="IOEX2" pin="27" pinfunction="GPA6" pintype="bidirectional"/>
+      <node ref="MUX2" pin="15" pinfunction="A2" pintype="input"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="/M2_A3">
+      <node ref="IOEX2" pin="28" pinfunction="GPA7" pintype="bidirectional"/>
+      <node ref="MUX2" pin="14" pinfunction="A3" pintype="input"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="/M2_EN">
+      <node ref="IOEX2" pin="6" pinfunction="GPB5" pintype="bidirectional"/>
+      <node ref="MUX2" pin="18" pinfunction="EN" pintype="input"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="/M3_A0">
+      <node ref="IOEX2" pin="1" pinfunction="GPB0" pintype="bidirectional"/>
+      <node ref="MUX3" pin="17" pinfunction="A0" pintype="input"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="/M3_A1">
+      <node ref="IOEX2" pin="2" pinfunction="GPB1" pintype="bidirectional"/>
+      <node ref="MUX3" pin="16" pinfunction="A1" pintype="input"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="/M3_A2">
+      <node ref="IOEX2" pin="3" pinfunction="GPB2" pintype="bidirectional"/>
+      <node ref="MUX3" pin="15" pinfunction="A2" pintype="input"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="/M3_A3">
+      <node ref="IOEX2" pin="4" pinfunction="GPB3" pintype="bidirectional"/>
+      <node ref="MUX3" pin="14" pinfunction="A3" pintype="input"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="/M3_EN">
+      <node ref="IOEX2" pin="7" pinfunction="GPB6" pintype="bidirectional"/>
+      <node ref="MUX3" pin="18" pinfunction="EN" pintype="input"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="/NEEDLE">
+      <node ref="J10" pin="2" pintype="passive"/>
+      <node ref="J9" pin="2" pintype="passive"/>
+      <node ref="Needle1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="41" name="/NEEDLE_">
+      <node ref="J10" pin="1" pintype="passive"/>
+      <node ref="OPA2" pin="5" pinfunction="+INB" pintype="unspecified"/>
+    </net>
+    <net code="42" name="/SIG_MEAS_V">
+      <node ref="MUX2" pin="28" pinfunction="D" pintype="bidirectional"/>
+      <node ref="OPA2" pin="3" pinfunction="+INA" pintype="unspecified"/>
+    </net>
+    <net code="43" name="/SIG_MEAS_Z">
+      <node ref="MUX3" pin="28" pinfunction="D" pintype="bidirectional"/>
+      <node ref="R_shunt1" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="/SIG_OUT">
+      <node ref="J14" pin="1" pintype="passive"/>
+      <node ref="MUX1" pin="28" pinfunction="D" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="GND">
+      <node ref="AS1" pin="4" pinfunction="VSS" pintype="unspecified"/>
+      <node ref="AS1" pin="5" pinfunction="GND" pintype="unspecified"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="CON2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC1" pin="12" pinfunction="DGND" pintype="power_in"/>
+      <node ref="IC1" pin="13" pinfunction="AGND1" pintype="power_in"/>
+      <node ref="IC1" pin="14" pinfunction="AGND2" pintype="power_in"/>
+      <node ref="IOEX1" pin="10" pinfunction="VSS" pintype="power_in"/>
+      <node ref="IOEX2" pin="10" pinfunction="VSS" pintype="power_in"/>
+      <node ref="MUX1" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="MUX1" pin="27" pinfunction="VSS" pintype="power_in"/>
+      <node ref="MUX2" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="MUX2" pin="27" pinfunction="VSS" pintype="power_in"/>
+      <node ref="MUX3" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="MUX3" pin="27" pinfunction="VSS" pintype="power_in"/>
+      <node ref="OPA1" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="OPA2" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="R59" pin="1" pintype="passive"/>
+      <node ref="R62" pin="1" pintype="passive"/>
+      <node ref="UC1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="UC1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="UC1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="4" pinfunction="CASE_GROUND" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="6" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="47" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="R58" pin="1" pintype="passive"/>
+      <node ref="R59" pin="2" pintype="passive"/>
+      <node ref="R60" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="VIN" pintype="input"/>
+      <node ref="J5" pin="1" pintype="passive"/>
+      <node ref="J6" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="RFB" pintype="input"/>
+      <node ref="R54" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(CON1-Pad1)">
+      <node ref="CON1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="MUX1" pin="19" pinfunction="S1" pintype="bidirectional"/>
+      <node ref="MUX2" pin="19" pinfunction="S1" pintype="bidirectional"/>
+      <node ref="MUX3" pin="19" pinfunction="S1" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="Net-(CON1-Pad2)">
+      <node ref="CON1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="MUX1" pin="20" pinfunction="S2" pintype="bidirectional"/>
+      <node ref="MUX2" pin="20" pinfunction="S2" pintype="bidirectional"/>
+      <node ref="MUX3" pin="20" pinfunction="S2" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="Net-(CON1-Pad3)">
+      <node ref="CON1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="MUX1" pin="21" pinfunction="S3" pintype="bidirectional"/>
+      <node ref="MUX2" pin="21" pinfunction="S3" pintype="bidirectional"/>
+      <node ref="MUX3" pin="21" pinfunction="S3" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="Net-(CON1-Pad4)">
+      <node ref="CON1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="MUX1" pin="22" pinfunction="S4" pintype="bidirectional"/>
+      <node ref="MUX2" pin="22" pinfunction="S4" pintype="bidirectional"/>
+      <node ref="MUX3" pin="22" pinfunction="S4" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="Net-(CON1-Pad5)">
+      <node ref="CON1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="MUX1" pin="23" pinfunction="S5" pintype="bidirectional"/>
+      <node ref="MUX2" pin="23" pinfunction="S5" pintype="bidirectional"/>
+      <node ref="MUX3" pin="23" pinfunction="S5" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="Net-(CON1-Pad6)">
+      <node ref="CON1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="MUX1" pin="24" pinfunction="S6" pintype="bidirectional"/>
+      <node ref="MUX2" pin="24" pinfunction="S6" pintype="bidirectional"/>
+      <node ref="MUX3" pin="24" pinfunction="S6" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="Net-(CON1-Pad7)">
+      <node ref="CON1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="MUX1" pin="25" pinfunction="S7" pintype="bidirectional"/>
+      <node ref="MUX2" pin="25" pinfunction="S7" pintype="bidirectional"/>
+      <node ref="MUX3" pin="25" pinfunction="S7" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="Net-(CON1-Pad8)">
+      <node ref="CON1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="MUX1" pin="26" pinfunction="S8" pintype="bidirectional"/>
+      <node ref="MUX2" pin="26" pinfunction="S8" pintype="bidirectional"/>
+      <node ref="MUX3" pin="26" pinfunction="S8" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Net-(CON1-Pad9)">
+      <node ref="CON1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="MUX1" pin="11" pinfunction="S9" pintype="bidirectional"/>
+      <node ref="MUX2" pin="11" pinfunction="S9" pintype="bidirectional"/>
+      <node ref="MUX3" pin="11" pinfunction="S9" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="Net-(CON1-Pad10)">
+      <node ref="CON1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="MUX1" pin="10" pinfunction="S10" pintype="bidirectional"/>
+      <node ref="MUX2" pin="10" pinfunction="S10" pintype="bidirectional"/>
+      <node ref="MUX3" pin="10" pinfunction="S10" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="Net-(CON1-Pad11)">
+      <node ref="CON1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="MUX1" pin="9" pinfunction="S11" pintype="bidirectional"/>
+      <node ref="MUX2" pin="9" pinfunction="S11" pintype="bidirectional"/>
+      <node ref="MUX3" pin="9" pinfunction="S11" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="Net-(CON1-Pad12)">
+      <node ref="CON1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="MUX1" pin="8" pinfunction="S12" pintype="bidirectional"/>
+      <node ref="MUX2" pin="8" pinfunction="S12" pintype="bidirectional"/>
+      <node ref="MUX3" pin="8" pinfunction="S12" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="Net-(CON1-Pad13)">
+      <node ref="CON1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="MUX1" pin="7" pinfunction="S13" pintype="bidirectional"/>
+      <node ref="MUX2" pin="7" pinfunction="S13" pintype="bidirectional"/>
+      <node ref="MUX3" pin="7" pinfunction="S13" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="Net-(CON1-Pad14)">
+      <node ref="CON1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="MUX1" pin="6" pinfunction="S14" pintype="bidirectional"/>
+      <node ref="MUX2" pin="6" pinfunction="S14" pintype="bidirectional"/>
+      <node ref="MUX3" pin="6" pinfunction="S14" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="Net-(CON1-Pad15)">
+      <node ref="CON1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="MUX1" pin="5" pinfunction="S15" pintype="bidirectional"/>
+      <node ref="MUX2" pin="5" pinfunction="S15" pintype="bidirectional"/>
+      <node ref="MUX3" pin="5" pinfunction="S15" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="Net-(CON1-Pad16)">
+      <node ref="CON1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="MUX1" pin="4" pinfunction="S16" pintype="bidirectional"/>
+      <node ref="MUX2" pin="4" pinfunction="S16" pintype="bidirectional"/>
+      <node ref="MUX3" pin="4" pinfunction="S16" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R51" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(IC1-Pad8)">
+      <node ref="IC1" pin="8" pinfunction="MCLK" pintype="input"/>
+      <node ref="Y1" pin="5" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(IOEX1-Pad15)">
+      <node ref="IOEX1" pin="15" pinfunction="A0" pintype="input"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(IOEX1-Pad16)">
+      <node ref="IOEX1" pin="16" pinfunction="A1" pintype="input"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(IOEX1-Pad17)">
+      <node ref="IOEX1" pin="17" pinfunction="A2" pintype="input"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(IOEX1-Pad18)">
+      <node ref="IOEX1" pin="18" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(IOEX2-Pad15)">
+      <node ref="IOEX2" pin="15" pinfunction="A0" pintype="input"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(IOEX2-Pad16)">
+      <node ref="IOEX2" pin="16" pinfunction="A1" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(IOEX2-Pad17)">
+      <node ref="IOEX2" pin="17" pinfunction="A2" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(IOEX2-Pad18)">
+      <node ref="IOEX2" pin="18" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(J11-Pad1)">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="UC1" pin="7" pinfunction="D4/A6" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="Net-(J11-Pad2)">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="UC1" pin="8" pinfunction="~D5" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="Net-(J11-Pad3)">
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="UC1" pin="9" pinfunction="~D6/A7" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="Net-(J11-Pad4)">
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="UC1" pin="10" pinfunction="D7" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="Net-(J11-Pad5)">
+      <node ref="J11" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="UC1" pin="11" pinfunction="D8/A8" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="Net-(J11-Pad6)">
+      <node ref="J11" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="UC1" pin="12" pinfunction="~D9/A9" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="Net-(J12-Pad1)">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="UC1" pin="17" pinfunction="D18/A0" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="Net-(J12-Pad2)">
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="UC1" pin="16" pinfunction="D15" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="Net-(J12-Pad3)">
+      <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="UC1" pin="15" pinfunction="D14" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="Net-(J12-Pad4)">
+      <node ref="J12" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="UC1" pin="14" pinfunction="D16" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="Net-(J12-Pad5)">
+      <node ref="J12" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="UC1" pin="13" pinfunction="~D10/A10" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="Net-(J14-Pad2)">
+      <node ref="J14" pin="2" pintype="passive"/>
+      <node ref="J8" pin="2" pintype="passive"/>
+      <node ref="OPA1" pin="1" pinfunction="OUTA" pintype="unspecified"/>
+      <node ref="R64" pin="2" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(OPA1-Pad2)">
+      <node ref="OPA1" pin="2" pinfunction="-INA" pintype="unspecified"/>
+      <node ref="R60" pin="2" pintype="passive"/>
+      <node ref="R64" pin="1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(OPA1-Pad6)">
+      <node ref="OPA1" pin="6" pinfunction="-INB" pintype="unspecified"/>
+      <node ref="R63" pin="1" pintype="passive"/>
+      <node ref="R_shunt1" pin="2" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(OPA1-Pad7)">
+      <node ref="OPA1" pin="7" pinfunction="OUTB" pintype="unspecified"/>
+      <node ref="R63" pin="2" pintype="passive"/>
+      <node ref="R65" pin="1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(OPA2-Pad1)">
+      <node ref="OPA2" pin="1" pinfunction="OUTA" pintype="unspecified"/>
+      <node ref="OPA2" pin="2" pinfunction="-INA" pintype="unspecified"/>
+      <node ref="R67" pin="1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(OPA2-Pad6)">
+      <node ref="OPA2" pin="6" pinfunction="-INB" pintype="unspecified"/>
+      <node ref="OPA2" pin="7" pinfunction="OUTB" pintype="unspecified"/>
+      <node ref="R55" pin="1" pintype="passive"/>
+    </net>
+    <net code="96" name="SCL">
+      <node ref="CON2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="IC1" pin="16" pinfunction="SCL" pintype="input"/>
+      <node ref="IOEX1" pin="12" pinfunction="SCK" pintype="input"/>
+      <node ref="IOEX2" pin="12" pinfunction="SCK" pintype="input"/>
+      <node ref="R56" pin="2" pintype="passive"/>
+      <node ref="UC1" pin="6" pinfunction="~D3" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="SDA">
+      <node ref="CON2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="IC1" pin="15" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="IOEX1" pin="13" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="IOEX2" pin="13" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="R53" pin="2" pintype="passive"/>
+      <node ref="UC1" pin="5" pinfunction="D2" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="VCC_5V">
+      <node ref="AS1" pin="13" pinfunction="VDD" pintype="power_in"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="CON2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="IC1" pin="10" pinfunction="AVDD1" pintype="power_in"/>
+      <node ref="IC1" pin="11" pinfunction="AVDD2" pintype="power_in"/>
+      <node ref="IC1" pin="9" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="IOEX1" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="IOEX2" pin="9" pinfunction="VDD" pintype="power_in"/>
+      <node ref="MUX1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="MUX2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="MUX3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="OPA1" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="OPA2" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+      <node ref="R56" pin="1" pintype="passive"/>
+      <node ref="R58" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R61" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="UC1" pin="21" pinfunction="VCC" pintype="power_in"/>
+      <node ref="Y1" pin="8" pinfunction="+5V_DC" pintype="passive"/>
+    </net>
+    <net code="99" name="VCC{slash}2">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="OPA1" pin="3" pinfunction="+INA" pintype="unspecified"/>
+      <node ref="OPA1" pin="5" pinfunction="+INB" pintype="unspecified"/>
+      <node ref="R61" pin="1" pintype="passive"/>
+      <node ref="R62" pin="2" pintype="passive"/>
+    </net>
+    <net code="100" name="unconnected-(AS1-Pad12)">
+      <node ref="AS1" pin="12" pinfunction="NC" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(CON2-Pad5)">
+      <node ref="CON2" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(CON2-Pad6)">
+      <node ref="CON2" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(IC1-Pad2)">
+      <node ref="IC1" pin="2" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(IC1-Pad3)">
+      <node ref="IC1" pin="3" pinfunction="NC_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="NC_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(IOEX1-Pad11)">
+      <node ref="IOEX1" pin="11" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(IOEX1-Pad14)">
+      <node ref="IOEX1" pin="14" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(IOEX1-Pad19)">
+      <node ref="IOEX1" pin="19" pinfunction="INTB" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(IOEX1-Pad20)">
+      <node ref="IOEX1" pin="20" pinfunction="INTA" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(IOEX2-Pad8)">
+      <node ref="IOEX2" pin="8" pinfunction="GPB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(IOEX2-Pad11)">
+      <node ref="IOEX2" pin="11" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(IOEX2-Pad14)">
+      <node ref="IOEX2" pin="14" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(IOEX2-Pad19)">
+      <node ref="IOEX2" pin="19" pinfunction="INTB" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(IOEX2-Pad20)">
+      <node ref="IOEX2" pin="20" pinfunction="INTA" pintype="tri_state+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(MUX1-Pad2)">
+      <node ref="MUX1" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(MUX1-Pad3)">
+      <node ref="MUX1" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(MUX1-Pad13)">
+      <node ref="MUX1" pin="13" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(MUX2-Pad2)">
+      <node ref="MUX2" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(MUX2-Pad3)">
+      <node ref="MUX2" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(MUX2-Pad13)">
+      <node ref="MUX2" pin="13" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(MUX3-Pad2)">
+      <node ref="MUX3" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(MUX3-Pad3)">
+      <node ref="MUX3" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(MUX3-Pad13)">
+      <node ref="MUX3" pin="13" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(UC1-Pad1)">
+      <node ref="UC1" pin="1" pinfunction="D1/TX" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(UC1-Pad2)">
+      <node ref="UC1" pin="2" pinfunction="D0/RX" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(UC1-Pad18)">
+      <node ref="UC1" pin="18" pinfunction="D19/A1" pintype="bidirectional"/>
+    </net>
+    <net code="128" name="unconnected-(UC1-Pad19)">
+      <node ref="UC1" pin="19" pinfunction="D20/A2" pintype="bidirectional"/>
+    </net>
+    <net code="129" name="unconnected-(UC1-Pad20)">
+      <node ref="UC1" pin="20" pinfunction="D21/A3" pintype="bidirectional"/>
+    </net>
+    <net code="130" name="unconnected-(UC1-Pad22)">
+      <node ref="UC1" pin="22" pinfunction="RST" pintype="input+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(UC1-Pad24)">
+      <node ref="UC1" pin="24" pinfunction="RAW" pintype="power_in+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(Y1-Pad1)">
+      <node ref="Y1" pin="1" pinfunction="TRI-STATE" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
