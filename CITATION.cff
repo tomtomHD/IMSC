@@ -1,9 +1,18 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: >-
+  Open Source Sensor Interface for Soft Detectors in
+  Surgical Simulators
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software, hardware
 authors:
-  - family-names: Thurner
-    given-names: Thomas
-    orcid: https://orcid.org/0000-0001-8998-5229
-title: "Open Source Sensor Interface for Soft Detectors in Surgical Simulators"
-version: 1.0
-date-released: 2023-03-31
+  - given-names: Thomas
+    family-names: Thurner
+    orcid: 'https://orcid.org/0000-0001-8998-5229'
+repository-code: 'https://github.com/tomtomHD/IMSC'
+keywords:
+  - >-
+    soft sensors, surgical simulator, sensor interface,
+    low-cost, open source, multichannel 
+license: MIT, CERN OHL v2
