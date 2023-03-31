@@ -1,0 +1,2042 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              HardwareLib/ImpedanceMultiSensingCircuit.o (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              Sketch.o (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              HardwareLib/AD5933s.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              HardwareLib/AD5933s.o (__fixsfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              HardwareLib/AD5933s.o (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              HardwareLib/AD5933s.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                              HardwareLib/AD5933s.o (sqrt)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_mpack)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_norm2)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                              HardwareLib/ImpedanceMultiSensingCircuit.o (_ZN7Serial_5writeEh)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o (main)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+                              HardwareLib/ImpedanceMultiSensingCircuit.o (_Znwj)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                              Sketch.o (_ZN5Print5printEPK19__FlashStringHelper)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o) (_Z13USB_Availableh)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                              HardwareLib/ImpedanceMultiSensingCircuit.o (delay)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                              HardwareLib/AD5933s.o (_ZN7TwoWire9availableEv)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o) (yield)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o) (_ZN13PluggableUSB_12getInterfaceEPh)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o) (twi_init)
+D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o) (digitalWrite)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              HardwareLib/ADG1606.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              HardwareLib/ImpedanceMultiSensingCircuit.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o) (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o) (malloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o) (abort)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+                              Sketch.o (eeprom_read_byte)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+                              Sketch.o (eeprom_write_byte)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .text          0x00000000        0x0 HardwareLib/AD5933s.o
+ .data          0x00000000        0x0 HardwareLib/AD5933s.o
+ .bss           0x00000000        0x0 HardwareLib/AD5933s.o
+ .text._ZN7AD5933s17enableTemperatureEh
+                0x00000000        0xa HardwareLib/AD5933s.o
+ .text._ZN7AD5933s19readControlRegisterEv
+                0x00000000       0x22 HardwareLib/AD5933s.o
+ .text._ZN7AD5933s14getTemperatureEv
+                0x00000000       0x7a HardwareLib/AD5933s.o
+ .text._ZN7AD5933s14frequencySweepEPiS0_i
+                0x00000000       0x98 HardwareLib/AD5933s.o
+ .text._ZN7AD5933s9calibrateEPdPiii
+                0x00000000      0x1ac HardwareLib/AD5933s.o
+ .text._ZN7AD5933s9calibrateEPdPiS1_S1_ii
+                0x00000000      0x144 HardwareLib/AD5933s.o
+ .text          0x00000000        0x0 HardwareLib/ADG1606.o
+ .data          0x00000000        0x0 HardwareLib/ADG1606.o
+ .bss           0x00000000        0x0 HardwareLib/ADG1606.o
+ .text._ZN7ADG16066enableEv
+                0x00000000       0x20 HardwareLib/ADG1606.o
+ .text._ZN7ADG16067disableEv
+                0x00000000       0x20 HardwareLib/ADG1606.o
+ .text._ZN7ADG16067channelEa
+                0x00000000       0xda HardwareLib/ADG1606.o
+ .text          0x00000000        0x0 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .data          0x00000000        0x0 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .bss           0x00000000        0x0 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .text._ZN8imsc_LEDD2Ev
+                0x00000000        0x2 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .text._ZN8imsc_LED8getStateEv
+                0x00000000        0x6 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .text._ZN28ImpedanceMultiSensingCircuitD2Ev
+                0x00000000       0x48 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .text._ZN28ImpedanceMultiSensingCircuit16measureReactanceEaa15directPrintMode
+                0x00000000       0xb6 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .text._ZN28ImpedanceMultiSensingCircuit17measureResistanceEaa15directPrintMode
+                0x00000000       0xb6 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .text          0x00000000        0x0 HardwareLib/MCP23017.o
+ .data          0x00000000        0x0 HardwareLib/MCP23017.o
+ .bss           0x00000000        0x0 HardwareLib/MCP23017.o
+ .text._ZN8MCP230179bitForPinEh
+                0x00000000        0x6 HardwareLib/MCP23017.o
+ .text._ZN8MCP230179regForPinEhhh
+                0x00000000        0xc HardwareLib/MCP23017.o
+ .text._ZN8MCP230175beginEv
+                0x00000000        0x6 HardwareLib/MCP23017.o
+ .text._ZN8MCP230178readGPIOEh
+                0x00000000       0x50 HardwareLib/MCP23017.o
+ .text._ZN8MCP230176pullUpEhh
+                0x00000000        0xe HardwareLib/MCP23017.o
+ .text._ZN8MCP2301717setupInterruptPinEhh
+                0x00000000       0x52 HardwareLib/MCP23017.o
+ .text._ZN8MCP2301711digitalReadEh
+                0x00000000       0x26 HardwareLib/MCP23017.o
+ .text._ZN8MCP2301715setupInterruptsEhhh
+                0x00000000       0x7a HardwareLib/MCP23017.o
+ .text._ZN8MCP2301719getLastInterruptPinEv
+                0x00000000       0x6a HardwareLib/MCP23017.o
+ .text._ZN8MCP2301724getLastInterruptPinValueEv
+                0x00000000       0x3e HardwareLib/MCP23017.o
+ .text._ZN8MCP2301710readGPIOABEv
+                0x00000000       0x52 HardwareLib/MCP23017.o
+ .text          0x00000000        0x0 HardwareLib/MUX16_CIRCUIT.o
+ .data          0x00000000        0x0 HardwareLib/MUX16_CIRCUIT.o
+ .bss           0x00000000        0x0 HardwareLib/MUX16_CIRCUIT.o
+ .text._ZN13MUX16_CIRCUITC2EP8MCP23017P7ADG1606S3_S3_
+                0x00000000       0x3a HardwareLib/MUX16_CIRCUIT.o
+ .text._ZN13MUX16_CIRCUITD2Ev
+                0x00000000       0x2a HardwareLib/MUX16_CIRCUIT.o
+ .text._ZN13MUX16_CIRCUIT20getMeasureMuxChannelEv
+                0x00000000        0x6 HardwareLib/MUX16_CIRCUIT.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_5beginEmh
+                0x00000000        0xc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_3endEv
+                0x00000000        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_cvbEv
+                0x00000000       0x1e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_4baudEv
+                0x00000000       0x18 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_8stopbitsEv
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_10paritytypeEv
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_7numbitsEv
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_3dtrEv
+                0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_3rtsEv
+                0x00000000        0xa D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_9readBreakEv
+                0x00000000       0x40 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text._Znaj    0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text._ZnwjPv  0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text._ZdlPv   0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text._ZdaPv   0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5writeEPKhj
+                0x00000000       0x54 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._Z19USBGetConfigurationv
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._Z12USBConnectedv
+                0x00000000       0x22 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_C2Ev
+                0x00000000        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_6detachEv
+                0x00000000        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_10configuredEv
+                0x00000000        0xe D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_4pollEv
+                0x00000000        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_10wakeupHostEv
+                0x00000000       0x38 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_11isSuspendedEv
+                0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .group         0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire5beginEh
+                0x00000000       0x10 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire5beginEi
+                0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire3endEv
+                0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire14setWireTimeoutEmb
+                0x00000000        0xa D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire18getWireTimeoutFlagEv
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire20clearWireTimeoutFlagEv
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEhh
+                0x00000000        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEiii
+                0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire9onReceiveEPFviE
+                0x00000000        0xa D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire9onRequestEPFvvE
+                0x00000000        0xa D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1bc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .text._ZN13PluggableUSB_4plugEP18PluggableUSBModule
+                0x00000000       0x8e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .text._ZN13PluggableUSB_C2Ev
+                0x00000000       0x10 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .text.twi_setAddress
+                0x00000000        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .text.twi_reply
+                0x00000000       0x10 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .text.twi_setTimeoutInMicros
+                0x00000000       0x1a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .text.twi_manageTimeoutFlag
+                0x00000000        0xe D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .text          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x00000000       0x78 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000       0x52 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .progmem.data.analog_pin_to_channel_PGM
+                0x00000000        0xc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .progmem.data.port_to_input_PGM
+                0x00000000        0xe D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .progmem.data.port_to_mode_PGM
+                0x00000000        0xe D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000a00         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+LOAD HardwareLib/AD5933s.o
+LOAD HardwareLib/ADG1606.o
+LOAD HardwareLib/ImpedanceMultiSensingCircuit.o
+LOAD HardwareLib/MCP23017.o
+LOAD HardwareLib/MUX16_CIRCUIT.o
+LOAD Sketch.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000a00]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x62e6
+ *(.vectors)
+ .vectors       0x00000000       0xac C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.turnOffPWM
+                0x000000ac       0x1e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ca                . = ALIGN (0x2)
+                0x000000ca                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000ca        0x0 linker stubs
+ *(.trampolines*)
+                0x000000ca                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data._ZZ4loopE3__c_0
+                0x000000ca        0x3 Sketch.o
+ .progmem.data._ZZ4loopE3__c
+                0x000000cd        0xf Sketch.o
+ .progmem.data._ZZ5setupE3__c
+                0x000000dc        0x6 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_19
+                0x000000e2       0x3e Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_18
+                0x00000120       0x3e Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_17
+                0x0000015e       0x3e Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_16
+                0x0000019c       0x4f Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_15
+                0x000001eb       0x3a Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_14
+                0x00000225       0x1e Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_13
+                0x00000243       0x24 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_12
+                0x00000267       0x41 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_11
+                0x000002a8       0x2c Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_10
+                0x000002d4       0x16 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_9
+                0x000002ea       0x2c Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_8
+                0x00000316       0x15 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_7
+                0x0000032b       0x15 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_6
+                0x00000340       0x15 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_5
+                0x00000355       0x15 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_4
+                0x0000036a        0x9 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_3
+                0x00000373        0x9 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_2
+                0x0000037c       0x2c Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_1
+                0x000003a8       0x10 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c_0
+                0x000003b8       0x11 Sketch.o
+ .progmem.data._ZZ12testFunctionvE3__c
+                0x000003c9       0x2c Sketch.o
+ .progmem.data._ZZ24updateCompensationValuesvE3__c_1
+                0x000003f5       0x12 Sketch.o
+ .progmem.data._ZZ24updateCompensationValuesvE3__c_0
+                0x00000407       0x1e Sketch.o
+ .progmem.data._ZZ24updateCompensationValuesvE3__c
+                0x00000425        0xf Sketch.o
+ .progmem.data._ZZ16printStimPatternvE3__c_4
+                0x00000434        0x2 Sketch.o
+ .progmem.data._ZZ16printStimPatternvE3__c_3
+                0x00000436        0x3 Sketch.o
+ .progmem.data._ZZ16printStimPatternvE3__c_2
+                0x00000439        0x3 Sketch.o
+ .progmem.data._ZZ16printStimPatternvE3__c_1
+                0x0000043c        0x2 Sketch.o
+ .progmem.data._ZZ16printStimPatternvE3__c_0
+                0x0000043e        0x2 Sketch.o
+ .progmem.data._ZZ16printStimPatternvE3__c
+                0x00000440        0x2 Sketch.o
+ .progmem.data._ZZ16printMeasPatternvE3__c_6
+                0x00000442        0x2 Sketch.o
+ .progmem.data._ZZ16printMeasPatternvE3__c_5
+                0x00000444        0x3 Sketch.o
+ .progmem.data._ZZ16printMeasPatternvE3__c_4
+                0x00000447        0x3 Sketch.o
+ .progmem.data._ZZ16printMeasPatternvE3__c_3
+                0x0000044a        0x3 Sketch.o
+ .progmem.data._ZZ16printMeasPatternvE3__c_2
+                0x0000044d        0x3 Sketch.o
+ .progmem.data._ZZ16printMeasPatternvE3__c_1
+                0x00000450        0x3 Sketch.o
+ .progmem.data._ZZ16printMeasPatternvE3__c_0
+                0x00000453        0x2 Sketch.o
+ .progmem.data._ZZ16printMeasPatternvE3__c
+                0x00000455        0x2 Sketch.o
+ .progmem.data._cdcInterface
+                0x00000457       0x42 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x00000457                _cdcInterface
+ .progmem.data.USB_DeviceDescriptorIAD
+                0x00000499       0x12 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00000499                USB_DeviceDescriptorIAD
+ .progmem.data.STRING_MANUFACTURER
+                0x000004ab        0xc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x000004ab                STRING_MANUFACTURER
+ .progmem.data.STRING_PRODUCT
+                0x000004b7       0x11 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x000004b7                STRING_PRODUCT
+ .progmem.data.STRING_LANGUAGE
+                0x000004c8        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x000004c8                STRING_LANGUAGE
+ .progmem.data.digital_pin_to_timer_PGM
+                0x000004cc       0x1f D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000004cc                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x000004eb       0x1f D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000004eb                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x0000050a       0x1f D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000050a                digital_pin_to_port_PGM
+ .progmem.data.port_to_output_PGM
+                0x00000529        0xe D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000529                port_to_output_PGM
+                0x00000538                . = ALIGN (0x2)
+ *fill*         0x00000537        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000538                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000538        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .ctors         0x0000053a        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0000053c                __ctors_end = .
+                0x0000053c                __dtors_start = .
+ *(.dtors)
+                0x0000053c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000053c        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x0000053c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000053c        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000548       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000548                __do_copy_data
+ .init4         0x0000055e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000055e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000056e       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x0000056e                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000584        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x0000058c        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x0000058c                __vector_38
+                0x0000058c                __vector_22
+                0x0000058c                __vector_28
+                0x0000058c                __vector_1
+                0x0000058c                __vector_32
+                0x0000058c                __vector_34
+                0x0000058c                __vector_24
+                0x0000058c                __vector_12
+                0x0000058c                __bad_interrupt
+                0x0000058c                __vector_6
+                0x0000058c                __vector_31
+                0x0000058c                __vector_35
+                0x0000058c                __vector_39
+                0x0000058c                __vector_3
+                0x0000058c                __vector_30
+                0x0000058c                __vector_25
+                0x0000058c                __vector_13
+                0x0000058c                __vector_17
+                0x0000058c                __vector_19
+                0x0000058c                __vector_7
+                0x0000058c                __vector_41
+                0x0000058c                __vector_27
+                0x0000058c                __vector_5
+                0x0000058c                __vector_33
+                0x0000058c                __vector_37
+                0x0000058c                __vector_4
+                0x0000058c                __vector_9
+                0x0000058c                __vector_2
+                0x0000058c                __vector_21
+                0x0000058c                __vector_15
+                0x0000058c                __vector_29
+                0x0000058c                __vector_40
+                0x0000058c                __vector_8
+                0x0000058c                __vector_26
+                0x0000058c                __vector_14
+                0x0000058c                __vector_16
+                0x0000058c                __vector_18
+                0x0000058c                __vector_20
+                0x0000058c                __vector_42
+                0x00000590                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN7AD5933s8sendByteEhh
+                0x00000590       0x3e HardwareLib/AD5933s.o
+                0x00000590                _ZN7AD5933s8sendByteEhh
+ .text._ZN7AD5933s14setClockSourceEh
+                0x000005ce       0x18 HardwareLib/AD5933s.o
+                0x000005ce                _ZN7AD5933s14setClockSourceEh
+ .text._ZN7AD5933s17setStartFrequencyEm
+                0x000005e6       0x7e HardwareLib/AD5933s.o
+                0x000005e6                _ZN7AD5933s17setStartFrequencyEm
+ .text._ZN7AD5933s21setIncrementFrequencyEm
+                0x00000664       0x7e HardwareLib/AD5933s.o
+                0x00000664                _ZN7AD5933s21setIncrementFrequencyEm
+ .text._ZN7AD5933s19setNumberIncrementsEj
+                0x000006e2       0x2e HardwareLib/AD5933s.o
+                0x000006e2                _ZN7AD5933s19setNumberIncrementsEj
+ .text._ZN7AD5933s21setSettlingTimeCyclesEj
+                0x00000710       0x5a HardwareLib/AD5933s.o
+                0x00000710                _ZN7AD5933s21setSettlingTimeCyclesEj
+ .text._ZN7AD5933s16setInternalClockEb
+                0x0000076a       0x12 HardwareLib/AD5933s.o
+                0x0000076a                _ZN7AD5933s16setInternalClockEb
+ .text._ZN7AD5933s7getByteEhPh
+                0x0000077c       0x76 HardwareLib/AD5933s.o
+                0x0000077c                _ZN7AD5933s7getByteEhPh
+ .text._ZN7AD5933s14setControlModeEh
+                0x000007f2       0x3a HardwareLib/AD5933s.o
+                0x000007f2                _ZN7AD5933s14setControlModeEh
+ .text._ZN7AD5933s12setPowerModeEh
+                0x0000082c       0x1c HardwareLib/AD5933s.o
+                0x0000082c                _ZN7AD5933s12setPowerModeEh
+ .text._ZN7AD5933s15endOneFrequencyEv
+                0x00000848        0x6 HardwareLib/AD5933s.o
+                0x00000848                _ZN7AD5933s15endOneFrequencyEv
+ .text._ZN7AD5933s17beginOneFrequencyEv
+                0x0000084e       0x24 HardwareLib/AD5933s.o
+                0x0000084e                _ZN7AD5933s17beginOneFrequencyEv
+ .text._ZN7AD5933s5resetEv
+                0x00000872       0x32 HardwareLib/AD5933s.o
+                0x00000872                _ZN7AD5933s5resetEv
+ .text._ZN7AD5933s10setPGAGainEh
+                0x000008a4       0x4a HardwareLib/AD5933s.o
+                0x000008a4                _ZN7AD5933s10setPGAGainEh
+ .text._ZN7AD5933s12readRegisterEh
+                0x000008ee       0x26 HardwareLib/AD5933s.o
+                0x000008ee                _ZN7AD5933s12readRegisterEh
+ .text._ZN7AD5933s18readStatusRegisterEv
+                0x00000914        0x6 HardwareLib/AD5933s.o
+                0x00000914                _ZN7AD5933s18readStatusRegisterEv
+ .text._ZN7AD5933s14getComplexDataEPiS0_
+                0x0000091a       0xac HardwareLib/AD5933s.o
+                0x0000091a                _ZN7AD5933s14getComplexDataEPiS0_
+ .text._ZN7AD5933s15getOneFrequencyEPiS0_
+                0x000009c6       0x66 HardwareLib/AD5933s.o
+                0x000009c6                _ZN7AD5933s15getOneFrequencyEPiS0_
+ .text._ZN7ADG1606C2EiiiiiP8MCP23017Pi
+                0x00000a2c       0x4c HardwareLib/ADG1606.o
+                0x00000a2c                _ZN7ADG1606C1EiiiiiP8MCP23017Pi
+                0x00000a2c                _ZN7ADG1606C2EiiiiiP8MCP23017Pi
+ .text._ZN7ADG160612init_ADG1606Ev
+                0x00000a78       0x90 HardwareLib/ADG1606.o
+                0x00000a78                _ZN7ADG160612init_ADG1606Ev
+ .text._ZN7ADG160625overwriteActiveChannelVarEa
+                0x00000b08       0x16 HardwareLib/ADG1606.o
+                0x00000b08                _ZN7ADG160625overwriteActiveChannelVarEa
+ .text._ZN7ADG160610getChannelEv
+                0x00000b1e        0x8 HardwareLib/ADG1606.o
+                0x00000b1e                _ZN7ADG160610getChannelEv
+ .text._ZN8imsc_LEDC2EP8MCP23017hb
+                0x00000b26       0x32 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000b26                _ZN8imsc_LEDC2EP8MCP23017hb
+                0x00000b26                _ZN8imsc_LEDC1EP8MCP23017hb
+ .text._ZN8imsc_LED2onEv
+                0x00000b58       0x22 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000b58                _ZN8imsc_LED2onEv
+ .text._ZN8imsc_LED3offEv
+                0x00000b7a       0x1a HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000b7a                _ZN8imsc_LED3offEv
+ .text._ZN8imsc_LED9overwriteEbPh
+                0x00000b94       0x4c HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000b94                _ZN8imsc_LED9overwriteEbPh
+ .text._ZN28ImpedanceMultiSensingCircuit17writeModesAndLedsEh
+                0x00000be0      0x126 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000be0                _ZN28ImpedanceMultiSensingCircuit17writeModesAndLedsEh
+ .text._ZN28ImpedanceMultiSensingCircuitC2Ev
+                0x00000d06       0xf0 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000d06                _ZN28ImpedanceMultiSensingCircuitC1Ev
+                0x00000d06                _ZN28ImpedanceMultiSensingCircuitC2Ev
+ .text._ZN28ImpedanceMultiSensingCircuit20setElectrodeInitCondEv
+                0x00000df6       0x3a HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000df6                _ZN28ImpedanceMultiSensingCircuit20setElectrodeInitCondEv
+ .text._ZN28ImpedanceMultiSensingCircuit12disableModesEv
+                0x00000e30       0x16 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000e30                _ZN28ImpedanceMultiSensingCircuit12disableModesEv
+ .text._ZN28ImpedanceMultiSensingCircuit12beginMeasureEv
+                0x00000e46       0x10 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000e46                _ZN28ImpedanceMultiSensingCircuit12beginMeasureEv
+ .text._ZN28ImpedanceMultiSensingCircuit10endMeasureEv
+                0x00000e56       0x1c HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000e56                _ZN28ImpedanceMultiSensingCircuit10endMeasureEv
+ .text._ZN28ImpedanceMultiSensingCircuit17getMaxMeasuredDFTEv
+                0x00000e72      0x10e HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000e72                _ZN28ImpedanceMultiSensingCircuit17getMaxMeasuredDFTEv
+ .text._ZN28ImpedanceMultiSensingCircuit18prepareStimulationEv
+                0x00000f80       0x40 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000f80                _ZN28ImpedanceMultiSensingCircuit18prepareStimulationEv
+ .text._ZN28ImpedanceMultiSensingCircuit20correctLeakingDataVsEv
+                0x00000fc0       0x46 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00000fc0                _ZN28ImpedanceMultiSensingCircuit20correctLeakingDataVsEv
+ .text._ZN28ImpedanceMultiSensingCircuit26getLastMeasuredStimCurrentEv
+                0x00001006       0x10 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001006                _ZN28ImpedanceMultiSensingCircuit26getLastMeasuredStimCurrentEv
+ .text._ZN28ImpedanceMultiSensingCircuit8getGainUEv
+                0x00001016       0x10 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001016                _ZN28ImpedanceMultiSensingCircuit8getGainUEv
+ .text._ZN28ImpedanceMultiSensingCircuit8getGainZEv
+                0x00001026       0x10 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001026                _ZN28ImpedanceMultiSensingCircuit8getGainZEv
+ .text._ZN28ImpedanceMultiSensingCircuit14sendBinaryDataEaaaaff
+                0x00001036       0xcc HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001036                _ZN28ImpedanceMultiSensingCircuit14sendBinaryDataEaaaaff
+ .text._ZN28ImpedanceMultiSensingCircuit16measureImpedanceEaa15directPrintMode
+                0x00001102      0x2fc HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001102                _ZN28ImpedanceMultiSensingCircuit16measureImpedanceEaa15directPrintMode
+ .text._ZN28ImpedanceMultiSensingCircuit14determineGainZEv
+                0x000013fe       0x6c HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x000013fe                _ZN28ImpedanceMultiSensingCircuit14determineGainZEv
+ .text._ZN28ImpedanceMultiSensingCircuit27determineCompensationValuesEv
+                0x0000146a      0x198 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x0000146a                _ZN28ImpedanceMultiSensingCircuit27determineCompensationValuesEv
+ .text._ZN28ImpedanceMultiSensingCircuit8initIMSCEv
+                0x00001602      0x2e4 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001602                _ZN28ImpedanceMultiSensingCircuit8initIMSCEv
+ .text._ZN28ImpedanceMultiSensingCircuit14measureVoltageEaaa15directPrintModeb
+                0x000018e6      0x392 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x000018e6                _ZN28ImpedanceMultiSensingCircuit14measureVoltageEaaa15directPrintModeb
+ .text._ZN28ImpedanceMultiSensingCircuit22measureAllPrepreparedVE15directPrintMode
+                0x00001c78      0x2aa HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001c78                _ZN28ImpedanceMultiSensingCircuit22measureAllPrepreparedVE15directPrintMode
+ .text._ZN28ImpedanceMultiSensingCircuit18getLeakageImpactVsEv
+                0x00001f22       0xd4 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001f22                _ZN28ImpedanceMultiSensingCircuit18getLeakageImpactVsEv
+ .text._ZN28ImpedanceMultiSensingCircuit14acquireEITdataE15directPrintModebb
+                0x00001ff6      0x272 HardwareLib/ImpedanceMultiSensingCircuit.o
+                0x00001ff6                _ZN28ImpedanceMultiSensingCircuit14acquireEITdataE15directPrintModebb
+ .text._ZL8wiresendh
+                0x00002268        0xa HardwareLib/MCP23017.o
+ .text._ZN8MCP2301713writeRegisterEhh
+                0x00002272       0x50 HardwareLib/MCP23017.o
+                0x00002272                _ZN8MCP2301713writeRegisterEhh
+ .text._ZN8MCP230175beginEh
+                0x000022c2       0x86 HardwareLib/MCP23017.o
+                0x000022c2                _ZN8MCP230175beginEh
+ .text._ZN8MCP2301712digitalWriteEhh
+                0x00002348       0x8c HardwareLib/MCP23017.o
+                0x00002348                _ZN8MCP2301712digitalWriteEhh
+ .text._ZN8MCP2301711writeGPIOABEj
+                0x000023d4       0x42 HardwareLib/MCP23017.o
+                0x000023d4                _ZN8MCP2301711writeGPIOABEj
+ .text._ZN8MCP2301712readRegisterEh
+                0x00002416       0x48 HardwareLib/MCP23017.o
+                0x00002416                _ZN8MCP2301712readRegisterEh
+ .text._ZN8MCP2301717updateRegisterBitEhhhh
+                0x0000245e       0x54 HardwareLib/MCP23017.o
+                0x0000245e                _ZN8MCP2301717updateRegisterBitEhhhh
+ .text._ZN8MCP230177pinModeEhh
+                0x000024b2       0x16 HardwareLib/MCP23017.o
+                0x000024b2                _ZN8MCP230177pinModeEhh
+ .text._ZN13MUX16_CIRCUITC2Ev
+                0x000024c8       0xf8 HardwareLib/MUX16_CIRCUIT.o
+                0x000024c8                _ZN13MUX16_CIRCUITC1Ev
+                0x000024c8                _ZN13MUX16_CIRCUITC2Ev
+ .text._ZN13MUX16_CIRCUIT26writePreparedChannelsToMuxEv
+                0x000025c0       0x3e HardwareLib/MUX16_CIRCUIT.o
+                0x000025c0                _ZN13MUX16_CIRCUIT26writePreparedChannelsToMuxEv
+ .text._ZN13MUX16_CIRCUIT17changeGPIOregWordEP7ADG1606i
+                0x000025fe      0x18a HardwareLib/MUX16_CIRCUIT.o
+                0x000025fe                _ZN13MUX16_CIRCUIT17changeGPIOregWordEP7ADG1606i
+ .text._ZN13MUX16_CIRCUIT5beginEi
+                0x00002788       0xb0 HardwareLib/MUX16_CIRCUIT.o
+                0x00002788                _ZN13MUX16_CIRCUIT5beginEi
+ .text._ZN13MUX16_CIRCUIT16prepareSignalMuxEi
+                0x00002838       0x20 HardwareLib/MUX16_CIRCUIT.o
+                0x00002838                _ZN13MUX16_CIRCUIT16prepareSignalMuxEi
+ .text._ZN13MUX16_CIRCUIT17prepareMeasureMuxEi
+                0x00002858       0x20 HardwareLib/MUX16_CIRCUIT.o
+                0x00002858                _ZN13MUX16_CIRCUIT17prepareMeasureMuxEi
+ .text._ZN13MUX16_CIRCUIT16prepareGroundMuxEi
+                0x00002878       0x20 HardwareLib/MUX16_CIRCUIT.o
+                0x00002878                _ZN13MUX16_CIRCUIT16prepareGroundMuxEi
+ .text._ZN13MUX16_CIRCUIT19getSignalMuxChannelEv
+                0x00002898        0x6 HardwareLib/MUX16_CIRCUIT.o
+                0x00002898                _ZN13MUX16_CIRCUIT19getSignalMuxChannelEv
+ .text._ZN13MUX16_CIRCUIT19getGroundMuxChannelEv
+                0x0000289e        0x6 HardwareLib/MUX16_CIRCUIT.o
+                0x0000289e                _ZN13MUX16_CIRCUIT19getGroundMuxChannelEv
+ .text._ZN11EEPROMClass6updateEih.isra.1
+                0x000028a4       0x28 Sketch.o
+ .text._ZN11EEPROMClass4readEi.isra.0
+                0x000028cc        0x4 Sketch.o
+ .text._Z24writeMeasPatternToEEPROMi
+                0x000028d0       0x42 Sketch.o
+                0x000028d0                _Z24writeMeasPatternToEEPROMi
+ .text._Z24writeStimPatternToEEPROMi
+                0x00002912       0x24 Sketch.o
+                0x00002912                _Z24writeStimPatternToEEPROMi
+ .text._Z25writeCompensationToEEPROMv
+                0x00002936       0xb0 Sketch.o
+                0x00002936                _Z25writeCompensationToEEPROMv
+ .text._Z25readMeasPatternFromEEPROMi
+                0x000029e6       0x50 Sketch.o
+                0x000029e6                _Z25readMeasPatternFromEEPROMi
+ .text._Z25readStimPatternFromEEPROMi
+                0x00002a36       0x26 Sketch.o
+                0x00002a36                _Z25readStimPatternFromEEPROMi
+ .text._Z26readCompensationFromEEPROMv
+                0x00002a5c       0xb6 Sketch.o
+                0x00002a5c                _Z26readCompensationFromEEPROMv
+ .text._Z16printMeasPatternv
+                0x00002b12       0xc6 Sketch.o
+                0x00002b12                _Z16printMeasPatternv
+ .text._Z16printStimPatternv
+                0x00002bd8       0xac Sketch.o
+                0x00002bd8                _Z16printStimPatternv
+ .text._Z13sendCalibDatav
+                0x00002c84      0x184 Sketch.o
+                0x00002c84                _Z13sendCalibDatav
+ .text._Z24updateCompensationValuesv
+                0x00002e08      0x1ea Sketch.o
+                0x00002e08                _Z24updateCompensationValuesv
+ .text._Z19startCollectingDatabb
+                0x00002ff2       0x9a Sketch.o
+                0x00002ff2                _Z19startCollectingDatabb
+ .text._Z20startCollectingData2b
+                0x0000308c      0x27e Sketch.o
+                0x0000308c                _Z20startCollectingData2b
+ .text._Z12testFunctionv
+                0x0000330a      0x45e Sketch.o
+                0x0000330a                _Z12testFunctionv
+ .text.setup    0x00003768       0x68 Sketch.o
+                0x00003768                setup
+ .text._Z21setMeasurementPatterni
+                0x000037d0       0x9a Sketch.o
+                0x000037d0                _Z21setMeasurementPatterni
+ .text._Z21setStimulationPatterni
+                0x0000386a       0x7c Sketch.o
+                0x0000386a                _Z21setStimulationPatterni
+ .text.loop     0x000038e6      0x3fc Sketch.o
+                0x000038e6                loop
+ .text.avr-libc.fplib
+                0x00003ce2        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00003ce2                __subsf3
+                0x00003ce4                __addsf3
+ .text.avr-libc.fplib
+                0x00003cf0       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00003d12                __addsf3x
+ .text.avr-libc.fplib
+                0x00003dbc        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00003dbc                __nesf2
+                0x00003dbc                __eqsf2
+                0x00003dbc                __cmpsf2
+                0x00003dbc                __ltsf2
+                0x00003dbc                __lesf2
+ .text.avr-libc.fplib
+                0x00003dc6        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00003dc6                __divsf3
+ .text.avr-libc.fplib
+                0x00003dce       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00003dee                __divsf3x
+                0x00003df4                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00003eaa        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x00003eaa                __fixsfsi
+ .text.avr-libc.fplib
+                0x00003eb8       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00003eb8                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00003f16       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00003f16                __floatunsisf
+                0x00003f1a                __floatsisf
+ .text.avr-libc.fplib
+                0x00003f90       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00003f90                __fp_cmp
+ .text.avr-libc.fplib
+                0x00003fd8        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00003fd8                __fp_inf
+ .text.avr-libc.fplib
+                0x00003fe4        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00003fe4                __fp_nan
+ .text.avr-libc.fplib
+                0x00003fea        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00003fea                __fp_pscA
+ .text.avr-libc.fplib
+                0x00003ff8        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00003ff8                __fp_pscB
+ .text.avr-libc.fplib
+                0x00004006       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00004006                __fp_round
+ .text.avr-libc.fplib
+                0x00004028       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00004028                __fp_split3
+                0x00004038                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000406c        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000406c                __fp_zero
+                0x0000406e                __fp_szero
+ .text.avr-libc.fplib
+                0x0000407a        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x0000407a                __mulsf3
+ .text.avr-libc.fplib
+                0x00004082       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000040a0                __mulsf3x
+                0x000040a6                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00004154       0x8c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                0x00004160                sqrtf
+                0x00004160                sqrt
+ .text.avr-libc.fplib
+                0x000041e0       0x1c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                0x000041e0                __fp_mpack
+                0x000041e4                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x000041fc        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+                0x000041fc                __fp_norm2
+ .text._ZN5Print17availableForWriteEv
+                0x0000420a        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x0000420a                _ZN5Print17availableForWriteEv
+ .text._ZN7Serial_5writeEh
+                0x00004210       0x2c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x00004210                _ZN7Serial_5writeEh
+ .text._ZN7Serial_4peekEv
+                0x0000423c       0x22 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x0000423c                _ZN7Serial_4peekEv
+ .text._ZN7Serial_17availableForWriteEv
+                0x0000425e        0xa D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x0000425e                _ZN7Serial_17availableForWriteEv
+ .text._ZN7Serial_5flushEv
+                0x00004268        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x00004268                _ZN7Serial_5flushEv
+ .text._ZN7Serial_9availableEv
+                0x0000426e       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x0000426e                _ZN7Serial_9availableEv
+ .text._ZN7Serial_4readEv
+                0x0000428e       0x1a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x0000428e                _ZN7Serial_4readEv
+ .text._ZN7Serial_5writeEPKhj
+                0x000042a8       0x2c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x000042a8                _ZN7Serial_5writeEPKhj
+ .text._Z16isLUFAbootloaderv
+                0x000042d4       0x14 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x000042d4                _Z16isLUFAbootloaderv
+ .text._Z16CDC_GetInterfacePh
+                0x000042e8       0x16 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x000042e8                _Z16CDC_GetInterfacePh
+ .text._Z9CDC_SetupR8USBSetup
+                0x000042fe      0x11c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x000042fe                _Z9CDC_SetupR8USBSetup
+ .text._ZN7Serial_5beginEm
+                0x0000441a        0xc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x0000441a                _ZN7Serial_5beginEm
+ .text.startup._GLOBAL__sub_I__cdcInterface
+                0x00004426       0x2a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .text.initVariant
+                0x00004450        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                0x00004450                initVariant
+ .text.startup.main
+                0x00004452       0x26 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                0x00004452                main
+ .text._Znwj    0x00004478        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+                0x00004478                _Znwj
+ .text._ZN5Print5writeEPKc
+                0x0000447c       0x2a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000447c                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x000044a6       0x48 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000044a6                _ZN5Print5printEPK19__FlashStringHelper
+ .text._ZN5Print5printEPKc
+                0x000044ee        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000044ee                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x000044f2        0xe D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000044f2                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x00004500        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00004500                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00004508       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00004508                _ZN5Print7printlnEPK19__FlashStringHelper
+ .text._ZN5Print7printlnEPKc
+                0x0000452c       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000452c                _ZN5Print7printlnEPKc
+ .text._ZN5Print11printNumberEmh
+                0x00004550       0x92 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00004550                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x000045e2       0x1a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000045e2                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x000045fc        0xe D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000045fc                _ZN5Print5printEhi
+ .text._ZN5Print5printEji
+                0x0000460a        0xc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000460a                _ZN5Print5printEji
+ .text._ZN5Print5printEli
+                0x00004616       0x90 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00004616                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x000046a6        0xe D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000046a6                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x000046b4       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000046b4                _ZN5Print7printlnEii
+ .text._ZN5Print10printFloatEdh
+                0x000046d8      0x1b6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000046d8                _ZN5Print10printFloatEdh
+ .text._ZN5Print7printlnEdi
+                0x0000488e       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000488e                _ZN5Print7printlnEdi
+ .text._ZL4RecvPVhh
+                0x000048b2       0x1a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZL11SendControlh
+                0x000048cc       0x5c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZL24USB_SendStringDescriptorPKhhh
+                0x00004928       0x6a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZL15USB_ClockEnablev
+                0x00004992       0x46 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZL14SendInterfacesv
+                0x000049d8       0x2c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN6LockEPC2Eh
+                0x00004a04       0x10 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004a04                _ZN6LockEPC2Eh
+                0x00004a04                _ZN6LockEPC1Eh
+ .text._Z13USB_Availableh
+                0x00004a14       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004a14                _Z13USB_Availableh
+ .text._Z8USB_RecvhPvi
+                0x00004a38       0x86 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004a38                _Z8USB_RecvhPvi
+ .text._Z8USB_Recvh
+                0x00004abe       0x2e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004abe                _Z8USB_Recvh
+ .text._Z13USB_SendSpaceh
+                0x00004aec       0x34 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004aec                _Z13USB_SendSpaceh
+ .text._Z8USB_SendhPKvi
+                0x00004b20      0x14a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004b20                _Z8USB_SendhPKvi
+ .text._Z11InitControli
+                0x00004c6a       0x16 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004c6a                _Z11InitControli
+ .text._Z15USB_SendControlhPKvi
+                0x00004c80       0x4e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004c80                _Z15USB_SendControlhPKvi
+ .text._Z15USB_RecvControlPvi
+                0x00004cce       0x66 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004cce                _Z15USB_RecvControlPvi
+ .text.__vector_11
+                0x00004d34      0x2b4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004d34                __vector_11
+ .text._Z9USB_Flushh
+                0x00004fe8       0x14 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004fe8                _Z9USB_Flushh
+ .text.__vector_10
+                0x00004ffc      0x102 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00004ffc                __vector_10
+ .text._ZN10USBDevice_6attachEv
+                0x000050fe       0x26 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x000050fe                _ZN10USBDevice_6attachEv
+ .text.__vector_23
+                0x00005124       0x94 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00005124                __vector_23
+ .text.micros   0x000051b8       0x4a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x000051b8                micros
+ .text.delay    0x00005202       0x78 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00005202                delay
+ .text.delayMicroseconds
+                0x0000527a       0x16 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x0000527a                delayMicroseconds
+ .text.init     0x00005290       0xac D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00005290                init
+ .text._ZN7TwoWire9availableEv
+                0x0000533c       0x10 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0000533c                _ZN7TwoWire9availableEv
+ .text._ZN7TwoWire4readEv
+                0x0000534c       0x28 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0000534c                _ZN7TwoWire4readEv
+ .text._ZN7TwoWire4peekEv
+                0x00005374       0x1e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00005374                _ZN7TwoWire4peekEv
+ .text._ZN7TwoWire5flushEv
+                0x00005392        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00005392                _ZN7TwoWire5flushEv
+ .text._ZN7TwoWire16onReceiveServiceEPhi
+                0x00005394       0x54 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00005394                _ZN7TwoWire16onReceiveServiceEPhi
+ .text._ZN7TwoWire16onRequestServiceEv
+                0x000053e8       0x18 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x000053e8                _ZN7TwoWire16onRequestServiceEv
+ .text._ZN7TwoWire5writeEPKhj
+                0x00005400       0x5a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00005400                _ZN7TwoWire5writeEPKhj
+ .text._ZN7TwoWire5writeEh
+                0x0000545a       0x5e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0000545a                _ZN7TwoWire5writeEh
+ .text._ZN7TwoWireC2Ev
+                0x000054b8       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x000054b8                _ZN7TwoWireC1Ev
+                0x000054b8                _ZN7TwoWireC2Ev
+ .text._ZN7TwoWire5beginEv
+                0x000054d8       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x000054d8                _ZN7TwoWire5beginEv
+ .text._ZN7TwoWire8setClockEm
+                0x000054fc        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x000054fc                _ZN7TwoWire8setClockEm
+ .text._ZN7TwoWire17beginTransmissionEh
+                0x00005504       0x14 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00005504                _ZN7TwoWire17beginTransmissionEh
+ .text._ZN7TwoWire17beginTransmissionEi
+                0x00005518        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00005518                _ZN7TwoWire17beginTransmissionEi
+ .text._ZN7TwoWire15endTransmissionEh
+                0x0000551c       0x26 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0000551c                _ZN7TwoWire15endTransmissionEh
+ .text._ZN7TwoWire11requestFromEhhmhh
+                0x00005542       0xa8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00005542                _ZN7TwoWire11requestFromEhhmhh
+ .text._ZN7TwoWire11requestFromEhhh
+                0x000055ea       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x000055ea                _ZN7TwoWire11requestFromEhhh
+ .text._ZN7TwoWire11requestFromEii
+                0x0000560a        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0000560a                _ZN7TwoWire11requestFromEii
+ .text._ZN7TwoWire15endTransmissionEv
+                0x00005610        0x6 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00005610                _ZN7TwoWire15endTransmissionEv
+ .text.startup._GLOBAL__sub_I__ZN7TwoWire8rxBufferE
+                0x00005616        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .text.__empty  0x0000561e        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                0x0000561e                yield
+ .text._ZN13PluggableUSB_12getInterfaceEPh
+                0x00005620       0x52 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x00005620                _ZN13PluggableUSB_12getInterfaceEPh
+ .text._ZN13PluggableUSB_13getDescriptorER8USBSetup
+                0x00005672       0x3e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x00005672                _ZN13PluggableUSB_13getDescriptorER8USBSetup
+ .text._ZN13PluggableUSB_12getShortNameEPc
+                0x000056b0       0x3e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x000056b0                _ZN13PluggableUSB_12getShortNameEPc
+ .text._ZN13PluggableUSB_5setupER8USBSetup
+                0x000056ee       0x3c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x000056ee                _ZN13PluggableUSB_5setupER8USBSetup
+ .text._Z12PluggableUSBv
+                0x0000572a       0x28 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x0000572a                _Z12PluggableUSBv
+ .text.twi_init
+                0x00005752       0x3c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x00005752                twi_init
+ .text.twi_disable
+                0x0000578e       0x1a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x0000578e                twi_disable
+ .text.twi_setFrequency
+                0x000057a8       0x28 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x000057a8                twi_setFrequency
+ .text.twi_transmit
+                0x000057d0       0x50 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x000057d0                twi_transmit
+ .text.twi_attachSlaveRxEvent
+                0x00005820        0xa D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x00005820                twi_attachSlaveRxEvent
+ .text.twi_attachSlaveTxEvent
+                0x0000582a        0xa D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x0000582a                twi_attachSlaveTxEvent
+ .text.twi_releaseBus
+                0x00005834        0xc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x00005834                twi_releaseBus
+ .text.twi_handleTimeout
+                0x00005840       0x2c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x00005840                twi_handleTimeout
+ .text.twi_readFrom
+                0x0000586c      0x1d2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x0000586c                twi_readFrom
+ .text.twi_writeTo
+                0x00005a3e      0x1e0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x00005a3e                twi_writeTo
+ .text.twi_stop
+                0x00005c1e       0x70 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x00005c1e                twi_stop
+ .text.__vector_36
+                0x00005c8e      0x25a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                0x00005c8e                __vector_36
+ .text.turnOffPWM
+                0x00005ee8       0x7a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.digitalWrite
+                0x00005f62       0x5e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00005f62                digitalWrite
+ .text.avr-libc.fplib
+                0x00005fc0        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00005fc0                __gesf2
+                0x00005fc0                __gtsf2
+ .text.avr-libc.fplib
+                0x00005fca        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                0x00005fca                __unordsf2
+ .text.libgcc.div
+                0x00005fd4       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00005fd4                _div
+                0x00005fd4                __divmodhi4
+ .text.libgcc.div
+                0x00005ffc       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00005ffc                __udivmodsi4
+ .text.libgcc   0x00006040        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00006040                __tablejump2__
+ .text.libgcc.div
+                0x0000604c       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000604c                __udivmodhi4
+ .text.avr-libc
+                0x00006074      0x242 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00006074                malloc
+                0x000061a4                free
+ .text.avr-libc
+                0x000062b6       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+                0x000062b6                eeprom_read_byte
+ .text.avr-libc
+                0x000062c6       0x1c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+                0x000062c6                eeprom_write_byte
+                0x000062c8                eeprom_write_r18
+                0x000062e2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000062e2        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000062e2                _exit
+                0x000062e2                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000062e2        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000062e6                _etext = .
+
+.data           0x00800100       0x94 load address 0x000062e6
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00800100                __malloc_heap_end
+                0x00800102                __malloc_heap_start
+                0x00800104                __malloc_margin
+ *(.data*)
+ .data.incomingByte
+                0x00800106        0x1 Sketch.o
+                0x00800106                incomingByte
+ .data._ZL10breakValue
+                0x00800107        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .data._ZL12_usbLineInfo
+                0x0080010b        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .data._initEndpoints
+                0x00800113        0x7 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x00800113                _initEndpoints
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0080011a       0x20 HardwareLib/MUX16_CIRCUIT.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080013a        0xf HardwareLib/ImpedanceMultiSensingCircuit.o
+ .rodata.str1.1
+                0x00800149       0x18 HardwareLib/MCP23017.o
+ .rodata._ZTV7Serial_
+                0x00800161       0x12 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x00800161                _ZTV7Serial_
+ .rodata.str1.1
+                0x00800173        0xf D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV7TwoWire
+                0x00800182       0x12 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00800182                _ZTV7TwoWire
+ *(.gnu.linkonce.r*)
+                0x00800194                . = ALIGN (0x2)
+                0x00800194                _edata = .
+                0x00800194                PROVIDE (__data_end, .)
+
+.bss            0x00800194      0x140
+                0x00800194                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.eitModule
+                0x00800194        0x2 Sketch.o
+                0x00800194                eitModule
+ .bss.Serial    0x00800196       0x50 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                0x00800196                Serial
+ .bss._ZL11wdtcsr_save
+                0x008001e6        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .bss.USBDevice
+                0x008001e7        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x008001e7                USBDevice
+ .bss._ZL5_cend
+                0x008001e8        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .bss._ZL6_cmark
+                0x008001ea        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .bss._usbSuspendState
+                0x008001ec        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x008001ec                _usbSuspendState
+ .bss._usbCurrentStatus
+                0x008001ed        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x008001ed                _usbCurrentStatus
+ .bss._usbConfiguration
+                0x008001ee        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x008001ee                _usbConfiguration
+ .bss.RxLEDPulse
+                0x008001ef        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x008001ef                RxLEDPulse
+ .bss.TxLEDPulse
+                0x008001f0        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                0x008001f0                TxLEDPulse
+ .bss.timer0_fract
+                0x008001f1        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x008001f2        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x008001f2                timer0_millis
+ .bss.timer0_overflow_count
+                0x008001f6        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x008001f6                timer0_overflow_count
+ .bss.Wire      0x008001fa        0xc D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x008001fa                Wire
+ .bss._ZN7TwoWire14user_onReceiveE
+                0x00800206        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00800206                _ZN7TwoWire14user_onReceiveE
+ .bss._ZN7TwoWire14user_onRequestE
+                0x00800208        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00800208                _ZN7TwoWire14user_onRequestE
+ .bss._ZN7TwoWire12transmittingE
+                0x0080020a        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0080020a                _ZN7TwoWire12transmittingE
+ .bss._ZN7TwoWire14txBufferLengthE
+                0x0080020b        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0080020b                _ZN7TwoWire14txBufferLengthE
+ .bss._ZN7TwoWire13txBufferIndexE
+                0x0080020c        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0080020c                _ZN7TwoWire13txBufferIndexE
+ .bss._ZN7TwoWire8txBufferE
+                0x0080020d       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0080020d                _ZN7TwoWire8txBufferE
+ .bss._ZN7TwoWire9txAddressE
+                0x0080022d        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0080022d                _ZN7TwoWire9txAddressE
+ .bss._ZN7TwoWire14rxBufferLengthE
+                0x0080022e        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0080022e                _ZN7TwoWire14rxBufferLengthE
+ .bss._ZN7TwoWire13rxBufferIndexE
+                0x0080022f        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x0080022f                _ZN7TwoWire13rxBufferIndexE
+ .bss._ZN7TwoWire8rxBufferE
+                0x00800230       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                0x00800230                _ZN7TwoWire8rxBufferE
+ .bss._ZZ12PluggableUSBvE3obj
+                0x00800250        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .bss._ZGVZ12PluggableUSBvE3obj
+                0x00800254        0x8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .bss.twi_error
+                0x0080025c        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_rxBufferIndex
+                0x0080025d        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_rxBuffer
+                0x0080025e       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBufferLength
+                0x0080027e        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBufferIndex
+                0x0080027f        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBuffer
+                0x00800280       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBufferLength
+                0x008002a0        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBufferIndex
+                0x008002a1        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBuffer
+                0x008002a2       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_onSlaveReceive
+                0x008002c2        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_onSlaveTransmit
+                0x008002c4        0x2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_do_reset_on_timeout
+                0x008002c6        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_timed_out_flag
+                0x008002c7        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_timeout_us
+                0x008002c8        0x4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_inRepStart
+                0x008002cc        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_sendStop
+                0x008002cd        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_slarw
+                0x008002ce        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_state
+                0x008002cf        0x1 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ *(COMMON)
+ COMMON         0x008002d0        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x008002d0                __brkval
+                0x008002d2                __flp
+                0x008002d4                PROVIDE (__bss_end, .)
+                0x000062e6                __data_load_start = LOADADDR (.data)
+                0x0000637a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008002d4        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008002d4                _end = .
+                0x008002d4                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 HardwareLib/AD5933s.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 HardwareLib/ADG1606.o
+ .comment       0x00000030       0x31 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .comment       0x00000030       0x31 HardwareLib/MCP23017.o
+ .comment       0x00000030       0x31 HardwareLib/MUX16_CIRCUIT.o
+ .comment       0x00000030       0x31 Sketch.o
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .comment       0x00000030       0x31 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x9f8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0xd8 HardwareLib/AD5933s.o
+ .debug_aranges
+                0x000000d8       0x50 HardwareLib/ADG1606.o
+ .debug_aranges
+                0x00000128      0x108 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .debug_aranges
+                0x00000230       0xb0 HardwareLib/MCP23017.o
+ .debug_aranges
+                0x000002e0       0x78 HardwareLib/MUX16_CIRCUIT.o
+ .debug_aranges
+                0x00000358       0xb0 Sketch.o
+ .debug_aranges
+                0x00000408       0xd8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .debug_aranges
+                0x000004e0       0x30 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000510       0x30 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_aranges
+                0x00000540      0x100 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000640       0xe0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .debug_aranges
+                0x00000720       0x48 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000768      0x110 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .debug_aranges
+                0x00000878       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_aranges
+                0x00000898       0x50 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_aranges
+                0x000008e8       0x98 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .debug_aranges
+                0x00000980       0x38 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x000009b8       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .debug_aranges
+                0x000009d8       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x1628e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x9f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .debug_info    0x000009f4     0x1366 HardwareLib/AD5933s.o
+ .debug_info    0x00001d5a      0x947 HardwareLib/ADG1606.o
+ .debug_info    0x000026a1     0x2e99 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .debug_info    0x0000553a     0x11e5 HardwareLib/MCP23017.o
+ .debug_info    0x0000671f      0xfdd HardwareLib/MUX16_CIRCUIT.o
+ .debug_info    0x000076fc     0x352b Sketch.o
+ .debug_info    0x0000ac27     0x29f0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .debug_info    0x0000d617      0x35a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x0000d971      0x15f D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_info    0x0000dad0     0x292d D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x000103fd     0x1a3a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .debug_info    0x00011e37      0x2f9 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x00012130     0x2910 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .debug_info    0x00014a40       0x3e D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x00014a7e      0x79f D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_info    0x0001521d      0x90a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .debug_info    0x00015b27      0x633 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x0001615a       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .debug_info    0x000161f4       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+.debug_abbrev   0x00000000     0x4222
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x96a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .debug_abbrev  0x0000096a      0x4aa HardwareLib/AD5933s.o
+ .debug_abbrev  0x00000e14      0x270 HardwareLib/ADG1606.o
+ .debug_abbrev  0x00001084      0x4cc HardwareLib/ImpedanceMultiSensingCircuit.o
+ .debug_abbrev  0x00001550      0x366 HardwareLib/MCP23017.o
+ .debug_abbrev  0x000018b6      0x330 HardwareLib/MUX16_CIRCUIT.o
+ .debug_abbrev  0x00001be6      0x531 Sketch.o
+ .debug_abbrev  0x00002117      0x602 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .debug_abbrev  0x00002719      0x19a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x000028b3      0x109 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_abbrev  0x000029bc      0x47a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00002e36      0x5e0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .debug_abbrev  0x00003416      0x146 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x0000355c      0x563 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .debug_abbrev  0x00003abf       0x2a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00003ae9      0x2c5 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_abbrev  0x00003dae      0x2f2 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .debug_abbrev  0x000040a0      0x15a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x000041fa       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .debug_abbrev  0x0000420e       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+.debug_line     0x00000000     0x6339
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x19a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .debug_line    0x0000019a      0x88c HardwareLib/AD5933s.o
+ .debug_line    0x00000a26      0x289 HardwareLib/ADG1606.o
+ .debug_line    0x00000caf      0xe64 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .debug_line    0x00001b13      0x6b8 HardwareLib/MCP23017.o
+ .debug_line    0x000021cb      0x469 HardwareLib/MUX16_CIRCUIT.o
+ .debug_line    0x00002634      0xd02 Sketch.o
+ .debug_line    0x00003336      0x68b D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .debug_line    0x000039c1      0x177 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00003b38      0x145 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_line    0x00003c7d      0x685 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00004302      0x9e7 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .debug_line    0x00004ce9      0x2bd D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00004fa6      0x637 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .debug_line    0x000055dd       0x41 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x0000561e      0x2de D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_line    0x000058fc      0x6bb D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .debug_line    0x00005fb7      0x26a D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00006221       0x7a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .debug_line    0x0000629b       0x9e C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+.debug_frame    0x00000000     0x22b8
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x384 HardwareLib/AD5933s.o
+ .debug_frame   0x00000384       0xf0 HardwareLib/ADG1606.o
+ .debug_frame   0x00000474      0x610 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .debug_frame   0x00000a84      0x238 HardwareLib/MCP23017.o
+ .debug_frame   0x00000cbc      0x1ac HardwareLib/MUX16_CIRCUIT.o
+ .debug_frame   0x00000e68      0x360 Sketch.o
+ .debug_frame   0x000011c8      0x1d8 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .debug_frame   0x000013a0       0x54 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x000013f4       0x64 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_frame   0x00001458      0x3ac D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00001804      0x3ac D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .debug_frame   0x00001bb0       0xc4 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x00001c74      0x2b0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .debug_frame   0x00001f24       0x24 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x00001f48       0xec D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_frame   0x00002034      0x208 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .debug_frame   0x0000223c       0x7c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_str      0x00000000     0x56a9
+ *(.debug_str)
+ .debug_str     0x00000000      0x371 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .debug_str     0x00000371      0x8b2 HardwareLib/AD5933s.o
+                                0x934 (size before relaxing)
+ .debug_str     0x00000c23      0x508 HardwareLib/ADG1606.o
+                                0x735 (size before relaxing)
+ .debug_str     0x0000112b     0x10db HardwareLib/ImpedanceMultiSensingCircuit.o
+                               0x1cbe (size before relaxing)
+ .debug_str     0x00002206      0x15d HardwareLib/MCP23017.o
+                                0x781 (size before relaxing)
+ .debug_str     0x00002363       0xe6 HardwareLib/MUX16_CIRCUIT.o
+                                0xbca (size before relaxing)
+ .debug_str     0x00002449      0x7ad Sketch.o
+                               0x2189 (size before relaxing)
+ .debug_str     0x00002bf6     0x1609 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+                               0x1a47 (size before relaxing)
+ .debug_str     0x000041ff      0x15c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                                0x3d4 (size before relaxing)
+ .debug_str     0x0000435b       0x28 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+                                0x1fd (size before relaxing)
+ .debug_str     0x00004383      0x297 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                               0x1260 (size before relaxing)
+ .debug_str     0x0000461a      0x689 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+                                0xc94 (size before relaxing)
+ .debug_str     0x00004ca3      0x13b D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                                0x268 (size before relaxing)
+ .debug_str     0x00004dde      0x57c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+                               0x19c3 (size before relaxing)
+ .debug_str     0x0000535a       0x1c D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                                0x15d (size before relaxing)
+ .debug_str     0x00005376       0x44 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+                                0x5d9 (size before relaxing)
+ .debug_str     0x000053ba      0x21f D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+                                0x517 (size before relaxing)
+ .debug_str     0x000055d9       0xd0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2e7 (size before relaxing)
+
+.debug_loc      0x00000000     0xaed7
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x1120 HardwareLib/AD5933s.o
+ .debug_loc     0x00001120      0x3ba HardwareLib/ADG1606.o
+ .debug_loc     0x000014da     0x1c87 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .debug_loc     0x00003161      0xedf HardwareLib/MCP23017.o
+ .debug_loc     0x00004040      0x700 HardwareLib/MUX16_CIRCUIT.o
+ .debug_loc     0x00004740      0xe26 Sketch.o
+ .debug_loc     0x00005566      0x790 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .debug_loc     0x00005cf6       0x72 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_loc     0x00005d68     0x1c87 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x000079ef     0x1277 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .debug_loc     0x00008c66      0x28d D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00008ef3      0xcbb D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .debug_loc     0x00009bae      0x445 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_loc     0x00009ff3      0x87f D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .debug_loc     0x0000a872      0x665 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0xb18
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0xf8 HardwareLib/AD5933s.o
+ .debug_ranges  0x000000f8       0x40 HardwareLib/ADG1606.o
+ .debug_ranges  0x00000138      0x110 HardwareLib/ImpedanceMultiSensingCircuit.o
+ .debug_ranges  0x00000248       0xa0 HardwareLib/MCP23017.o
+ .debug_ranges  0x000002e8       0x68 HardwareLib/MUX16_CIRCUIT.o
+ .debug_ranges  0x00000350      0x178 Sketch.o
+ .debug_ranges  0x000004c8       0xe0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(CDC.o)
+ .debug_ranges  0x000005a8       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x000005c8       0x20 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_ranges  0x000005e8      0x120 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000708      0x1c0 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(USBCore.o)
+ .debug_ranges  0x000008c8       0x38 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000900      0x100 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(Wire.o)
+ .debug_ranges  0x00000a00       0x10 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000a10       0x58 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_ranges  0x00000a68       0x88 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(twi.o)
+ .debug_ranges  0x00000af0       0x28 D:\ONEDRI~2\ONEDRI~1\DISSDA~1\MEDUSA~1\Code\IMPEDA~2\EIT_AR~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(EIT_Arduino_V3.elf elf32-avr)
+LOAD linker stubs
