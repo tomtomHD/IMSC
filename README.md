@@ -1,6 +1,6 @@
 # IMSC
 Sensor Interface for Soft Detectors in Surgical Simulators
-Thomas Thurner, 2023, thomas.thurner22@gamil.com
+Thomas Thurner, 2023, thomas.thurner22@gmail.com
 Publication link:
 https://ieeexplore.ieee.org/abstract/document/10124724
 
