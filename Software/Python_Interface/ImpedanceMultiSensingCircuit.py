@@ -583,7 +583,7 @@ class IMSC:
         self.offsetAngleComplexVoltage = 0; # In case of multiple calibrations, angle has to be reseted
         u0 = self.measureVoltage(0, -1, 0, 'complex')
         self.manual_Stop_MeasurementOscillation()
-        self.offsetAngleComplexVoltage = np.angle(np.complex(u0.real, u0.imag))
+        self.offsetAngleComplexVoltage = np.angle(complex(u0.real, u0.imag))
         return
         
         
@@ -902,7 +902,7 @@ class IMSC:
 
         """
         #return [real, imag]
-        complexNumber = np.complex(real, imag)
+        complexNumber = complex(real, imag)
         absV = np.abs(complexNumber)
         angleV = np.angle(complexNumber) - angle
         return [absV*np.cos(angleV), absV*np.sin(angleV)]
