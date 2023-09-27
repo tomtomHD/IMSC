@@ -459,8 +459,8 @@ class IMSC:
         # Send data:
         self.serialPort.write(bytearray('%','ascii'))
         self.serialPort.write(bytearray('d','ascii'))
-        self.serialPort.write(port.to_bytes(1,byteorder='big',signed=False))
-        self.serialPort.write(val.to_bytes(1,byteorder='big',signed=False))
+        self.serialPort.write(int(port).to_bytes(1,byteorder='big',signed=False))
+        self.serialPort.write(int(val).to_bytes(1,byteorder='big',signed=False))
         
 
     def gpioRead(self, port):
@@ -486,7 +486,7 @@ class IMSC:
         # Send data:
         self.serialPort.write(bytearray('%','ascii'))
         self.serialPort.write(bytearray('r','ascii'))
-        self.serialPort.write(port.to_bytes(1,byteorder='big',signed=False))
+        self.serialPort.write(int(port).to_bytes(1,byteorder='big',signed=False))
         # Read:
         val = self.serialPort.read(1)
         val = val[0]
@@ -533,8 +533,8 @@ class IMSC:
         # Send data:
         self.serialPort.write(bytearray('%','ascii'))
         self.serialPort.write(bytearray('w','ascii'))
-        self.serialPort.write(port.to_bytes(1,byteorder='big',signed=False))
-        self.serialPort.write(val.to_bytes(1,byteorder='big',signed=False))
+        self.serialPort.write(int(port).to_bytes(1,byteorder='big',signed=False))
+        self.serialPort.write(int(val).to_bytes(1,byteorder='big',signed=False))
         
         
     def measureCalib(self):
@@ -738,10 +738,10 @@ class IMSC:
 
         """
         self.serialPort.write(bytearray('@','ascii'))
-        self.serialPort.write(mode.to_bytes(1,byteorder='big',signed=True))
-        self.serialPort.write(fromEl.to_bytes(1,byteorder='big',signed=True))
-        self.serialPort.write(toEl.to_bytes(1,byteorder='big',signed=True))
-        self.serialPort.write(measEl.to_bytes(1,byteorder='big',signed=True))
+        self.serialPort.write(int(mode).to_bytes(1,byteorder='big',signed=True))
+        self.serialPort.write(int(fromEl).to_bytes(1,byteorder='big',signed=True))
+        self.serialPort.write(int(toEl).to_bytes(1,byteorder='big',signed=True))
+        self.serialPort.write(int(measEl).to_bytes(1,byteorder='big',signed=True))
         
     def byte4float(self, c):
         """
