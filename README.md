@@ -9,6 +9,7 @@ The content of the data and files is provided “as is” without any warranty w
 The open source software in this product is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 
 software license: MIT
+software (C++/QT) license: GNU General Public License
 hardware license: CERN OHL v2 Permissive
 
 
