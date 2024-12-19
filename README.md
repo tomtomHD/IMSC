@@ -13,15 +13,14 @@ software (C++/QT) license: GNU General Public License <br/>
 hardware license: CERN OHL v2 Permissive <br/>
  <br/>
  <br/>
-Content: <br/>
- <br/>
-1. CAD: <br/>
-   - _SIC_Housing.step_ --> Housing of the Sensory Interface Circuit <br/>
- <br/>
-2. Circuits: <br/>
-   - All Files: KiCad 6.0 Project files (https://www.kicad.org/) <br/>
- <br/>
-3. Firmware: <br/>
+### Content:
+1. CAD:
+   - _SIC_Housing.step_ --> Housing of the Sensory Interface Circuit
+
+2. Circuits: 
+   - All Files: KiCad 6.0 Project files (https://www.kicad.org/)
+
+3. Firmware: 
    - EIT_Arduino_V3 --> Folder including all firmware files (two Projects: ArduinoCore, EIT_Arduino_V3), via Microchip Studio 7.0.2542 (https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) <br/>
      - _EIT_Arduino_V3.atsln_ --> Atmel Studio Solution File <br/>
      - _upload_to_proMicro_to_be_edited.bat_	--> File to upload resulting hex-file to microcontroller (to be edited: "Absolute_Path_To...\" needs to be replaced with the Path to the corresponding files) <br/>
