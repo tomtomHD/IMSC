@@ -16,7 +16,7 @@ hardware license: CERN OHL v2 Permissive <br/>
 Content: <br/>
  <br/>
 - CAD: <br/>
-  - SIC_Housing.step --> Housing of the Sensory Interface Circuit <br/>
+  -- 'SIC_Housing.step' --> Housing of the Sensory Interface Circuit <br/>
   
  <br/>
 - Circuits: <br/>
