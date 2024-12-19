@@ -16,15 +16,15 @@ hardware license: CERN OHL v2 Permissive <br/>
 Content: <br/>
  <br/>
 - CAD: <br/>
--- SIC_Housing.step ....................... Housing of the Sensory Interface Circuit <br/>
+  - SIC_Housing.step ....................... Housing of the Sensory Interface Circuit <br/>
  <br/>
 - Circuits: <br/>
--- All Files: KiCad 6.0 Project files (https://www.kicad.org/) <br/>
+  - All Files: KiCad 6.0 Project files (https://www.kicad.org/) <br/>
  <br/>
 -Firmware: <br/>
--- EIT_Arduino_V3 ......................... Folder including all firmware files (two Projects: ArduinoCore, EIT_Arduino_V3), via Microchip Studio 7.0.2542 (https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) <br/>
----EIT_Arduino_V3.atsln ................... Atmel Studio Solution File <br/>
----upload_to_proMicro_to_be_edited.bat	... File to upload resulting hex-file to microcontroller (to be edited: "Absolute_Path_To...\" needs to be replaced with the Path to the corresponding files) <br/>
+  - EIT_Arduino_V3 ......................... Folder including all firmware files (two Projects: ArduinoCore, EIT_Arduino_V3), via Microchip Studio 7.0.2542 (https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) <br/>
+    - EIT_Arduino_V3.atsln ................... Atmel Studio Solution File <br/>
+    - upload_to_proMicro_to_be_edited.bat	... File to upload resulting hex-file to microcontroller (to be edited: "Absolute_Path_To...\" needs to be replaced with the Path to the corresponding files) <br/>
  <br/>
 - Software: <br/>
 -- Matlab_interface: <br/>
