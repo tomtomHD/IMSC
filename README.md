@@ -15,31 +15,31 @@ hardware license: CERN OHL v2 Permissive <br/>
  <br/>
 Content: <br/>
  <br/>
-- CAD: <br/>
-  - _SIC_Housing.step_ --> Housing of the Sensory Interface Circuit <br/>
+1. CAD: <br/>
+   - _SIC_Housing.step_ --> Housing of the Sensory Interface Circuit <br/>
   
  <br/>
-- Circuits: <br/>
-  - All Files: KiCad 6.0 Project files (https://www.kicad.org/) <br/>
+2. Circuits: <br/>
+   - All Files: KiCad 6.0 Project files (https://www.kicad.org/) <br/>
  <br/>
--Firmware: <br/>
-  - EIT_Arduino_V3 ......................... Folder including all firmware files (two Projects: ArduinoCore, EIT_Arduino_V3), via Microchip Studio 7.0.2542 (https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) <br/>
-    - EIT_Arduino_V3.atsln ................... Atmel Studio Solution File <br/>
-    - upload_to_proMicro_to_be_edited.bat	... File to upload resulting hex-file to microcontroller (to be edited: "Absolute_Path_To...\" needs to be replaced with the Path to the corresponding files) <br/>
+3. Firmware: <br/>
+   - EIT_Arduino_V3 --> Folder including all firmware files (two Projects: ArduinoCore, EIT_Arduino_V3), via Microchip Studio 7.0.2542 (https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) <br/>
+     - EIT_Arduino_V3.atsln --> Atmel Studio Solution File <br/>
+     - upload_to_proMicro_to_be_edited.bat	--> File to upload resulting hex-file to microcontroller (to be edited: "Absolute_Path_To...\" needs to be replaced with the Path to the corresponding files) <br/>
  <br/>
-- Software: <br/>
--- Matlab_interface: <br/>
---- executeIMSC_basic.m .................. Example code for running the SIC <br/>
---- IMSC.m ............................... Main file of SIC-class (working name is IMSC (Impedance Multi Sensing Circuit)) <br/>
---- imscData.m ........................... Data structure class of SIC <br/>
---- IDSerialComs.m ....................... Get list of COM-devices <br/>
--- Python_Interface: <br/>
---- executeIMSC_basic.py ................. Example code for running the SIC <br/>
---- executeIMSC_eit.py ................... Example code for preparing the SIC for EIT <br/>
---- ImpedanceMultiSensingCircuit.py ...... Main file of SIC-class (working name is IMSC (Impedance Multi Sensing Circuit)) <br/>
--- C++QT_Interface: <br/>
---- impedancemultisensingcircuit.cpp ..... cpp file
---- impedancemultisensingcircuit.h ....... header file
+4. Software: <br/>
+   - Matlab_interface: <br/>
+     - _executeIMSC_basic.m_ --> Example code for running the SIC <br/>
+     - _IMSC.m_ --> Main file of SIC-class (working name is IMSC (Impedance Multi Sensing Circuit)) <br/>
+     - _imscData.m_ --> Data structure class of SIC <br/>
+     - _IDSerialComs.m_ --> Get list of COM-devices <br/>
+   - Python_Interface: <br/>
+     - _executeIMSC_basic.py_ --> Example code for running the SIC <br/>
+     - _executeIMSC_eit.py_ --> Example code for preparing the SIC for EIT <br/>
+     - _ImpedanceMultiSensingCircuit.py_ --> Main file of SIC-class (working name is IMSC (Impedance Multi Sensing Circuit)) <br/>
+   - C++QT_Interface: <br/>
+     - _impedancemultisensingcircuit.cpp_ --> cpp file
+     - _impedancemultisensingcircuit.h_ --> header file
  <br/>
-- Leakage_Correction_EIT.pdf ............... Comparisons of the application of compensation strategy (equation 1) to uncompensated calculations by means of an EIT at different frequencies <br/>
+5. _Leakage_Correction_EIT.pdf_ --> Comparisons of the application of compensation strategy (equation 1) to uncompensated calculations by means of an EIT at different frequencies <br/>
  <br/>
