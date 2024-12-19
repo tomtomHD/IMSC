@@ -38,7 +38,7 @@ Content: <br/>
      - _ImpedanceMultiSensingCircuit.py_ --> Main file of SIC-class (working name is IMSC (Impedance Multi Sensing Circuit)) <br/>
    - C++QT_Interface: <br/>
      - _impedancemultisensingcircuit.cpp_ --> cpp file
-     - _impedancemultisensingcircuit.h_ --> header file
+     - _impedancemultisensingcircuit.h_ --> header file<br/>
  <br/>
 5. _Leakage_Correction_EIT.pdf_ --> Comparisons of the application of compensation strategy (equation 1) to uncompensated calculations by means of an EIT at different frequencies <br/>
  <br/>
