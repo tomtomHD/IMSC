@@ -36,7 +36,7 @@
 #include <QObject>
 #include <Qthread>
 #include <QDebug>
-#include <cmath>
+#include <QtMath>
 #include <vector>
 #include <complex>
 #include <stdint.h>
