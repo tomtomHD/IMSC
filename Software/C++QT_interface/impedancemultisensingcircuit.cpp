@@ -677,9 +677,10 @@ bool ImpedanceMultiSensingCircuit::readDataPoint() {
     }
 
     // Extract data based on mode
-    int fromEl = (sDataBytes[0] >= 0 && sDataBytes[0] <= ELECTRODE_NUMBER + NEEDLE_NUMBER) ? sDataBytes[0] : -1;
-    int toEl = (sDataBytes[1] >= 0 && sDataBytes[1] <= ELECTRODE_NUMBER + NEEDLE_NUMBER) ? sDataBytes[1] : -1;
-    int measureEl = (mode == eitMagnitude || (sDataBytes[2] >= 0 && sDataBytes[2] <= ELECTRODE_NUMBER + NEEDLE_NUMBER)) ? sDataBytes[2] : -1;
+    int fromEl = (static_cast<uchar>(sDataBytes[0]) >= 0 && static_cast<uchar>(sDataBytes[0]) <= ELECTRODE_NUMBER + NEEDLE_NUMBER) ? sDataBytes[0] : -1;
+    int toEl = (static_cast<uchar>(sDataBytes[1]) >= 0 && static_cast<uchar>(sDataBytes[1]) <= ELECTRODE_NUMBER + NEEDLE_NUMBER) ? sDataBytes[1] : -1;
+    int measureEl = (mode == eitMagnitude || (static_cast<uchar>(sDataBytes[2]) >= 0 && static_cast<uchar>(sDataBytes[2]) <= ELECTRODE_NUMBER + NEEDLE_NUMBER)) ? sDataBytes[2] : -1;
+
 
     if (mode % 2 == 0) { // Complex data
         float realValue1 = byte4float(std::vector<uint8_t>(sDataBytes.begin() + 3, sDataBytes.begin() + 7));
